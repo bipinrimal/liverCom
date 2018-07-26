@@ -1,0 +1,548 @@
+,cpd_id,index,action,variable,value,note,comment,reference,phase,date
+0,m01721,1338.0,replace,met_mw,308.893,DNA,,,formulating biomass components and curating bile acid metabolism,7/10/15
+1,m01368,,,,,,,,,
+2,m02847,1339.0,replace,met_mw,323.2868,RNA,,,formulating biomass components and curating bile acid metabolism,7/10/15
+3,m02038,,,,,,,,,
+4,m02554,,,,,,,,,
+5,m02552,,,,,,,,,
+6,m01974,,,,,,,,,
+7,m03100,,,,,,,,,
+8,m02470,,,,,,,,,
+9,m02040,,,,,,,,,
+10,m02769,,,,,,,,,
+11,m02723,,,,,,,,,
+12,m02630,,,,,,,,,
+13,m03134,,,,,,,,,
+14,m01307,,,,,,,,,
+15,m01369,,,,,,,,,
+16,m01365,,,,,,,,,
+17,m01588,,,,,,,,,
+18,m01442,,,,,,,,,
+19,m03113,,,,,,,,,
+20,m02680,,,,,,,,,
+21,m02945,648.0,add,kegg_alt,G00370,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+22,m03106,,,,,,,,,
+23,m02407,,,,,,,,,
+24,m02414,,,,,,,,,
+25,m02403,,,,,,,,,
+26,m02418,,,,,,,,,
+27,m01641,,,,,,,,,
+28,m01982,,,,,,,,,
+29,m02386,189.0,add,kegg_alt,C00506,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+30,m02386,643.0,add,kegg_alt,C00521,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+31,m02673,646.0,add,kegg_alt,D00491,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+32,m01830,,,,,,,,,
+33,m03101,,,,,,,,,
+34,m01252,,,,,,,,,
+35,m01306,,,,,,,,,
+36,m01687,,,,,,,,,
+37,m02389,,,,,,,,,
+38,m01695,,,,,,,,,
+39,m02785,,,,,,,,,
+40,m02937,72.0,add,kegg_alt,C00369,,,,updating KEGG annotations,2/9/15
+41,m02937,608.0,add,kegg_alt,C00492,,,,updating KEGG annotations,2/10/15
+42,m02937,609.0,add,kegg_alt,C00713,,,,updating KEGG annotations,2/10/15
+43,m02384,,,,,,,,,
+44,m03044,,,,,,,,,
+45,m01410,,,,,,,,,
+46,m02896,,,,,,,,,
+47,m02744,,,,,,,,,
+48,m01740,,,,,,,,,
+49,m01253,,,,,,,,,
+50,m00157,,,,,,,,,
+51,m00648,,,,,,,,,
+52,m02182,,,,,,,,,
+53,m02199,,,,,,,,,
+54,m01861,551.0,add,kegg_alt,C06130,,,,updating KEGG annotations,2/10/15
+55,m02833,,,,,,,,,
+56,m01987,,,,,,,,,
+57,m02026,,,,,,,,,
+58,m02170,,,,,,,,,
+59,m01629,638.0,add,kegg_alt,C01420,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+60,m02353,,,,,,,,,
+61,m01796,,,,,,,,,
+62,m02907,,,,,,,,,
+63,m02962,,,,,,,,,
+64,m01788,,,,,,,,,
+65,m01966,,,,,,,,,
+66,m01797,,,,,,,,,
+67,m01938,671.0,replace,kegg_id,C14155,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+68,m01397,,,,,,,,,
+69,m01398,,,,,,,,,
+70,m01445,,,,,,,,,
+71,m01672,,,,,,,,,
+72,m01789,,,,,,,,,
+73,m02159,,,,,,,,,
+74,m02452,,,,,,,,,
+75,m02997,,,,,,,,,
+76,m03117,632.0,add,kegg_alt,C17715,,,,updating KEGG annotations,2/10/15
+77,m01260,,,,,,,,,
+78,m01396,,,,,,,,,
+79,m01999,556.0,add,kegg_alt,C06131,,,,updating KEGG annotations,2/10/15
+80,m01999,1061.0,add,kegg_alt,C00528,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+81,m02037,,,,,,,,,
+82,m02843,,,,,,,,,
+83,m02928,,,,,,,,,
+84,m02961,,,,,,,,,
+85,m02524,,,,,,,,,
+86,m02983,,,,,,,,,
+87,m01962,,,,,,,,,
+88,m01280,,,,,,,,,
+89,m01614,142.0,replace,kegg_id,C02140,,,,updating KEGG annotations,2/9/15
+90,m01668,,,,,,,,,
+91,m02369,,,,,,,,,
+92,m02153,,,,,,,,,
+93,m02994,,,,,,,,,
+94,m01665,,,,,,,,,
+95,m02926,,,,,,,,,
+96,m02578,,,,,,,,,
+97,m03147,,,,,,,,,
+98,m01628,,,,,,,,,
+99,m03120,,,,,,,,,
+100,m01413,,,,,,,,,
+101,m02949,,,,,,,,,
+102,m02740,,,,,,,,,
+103,m00970,,,,,,,,,
+104,m01638,,,,,,,,,
+105,m01786,,,,,,,,,
+106,m01714,,,,,,,,,
+107,m02354,,,,,,,,,
+108,m01450,,,,,,,,,
+109,m01587,,,,,,,,,
+110,m01659,,,,,,,,,
+111,m02786,,,,,,,,,
+112,m02813,,,,,,,,,
+113,m02968,612.0,add,kegg_alt,C04555,,,,updating KEGG annotations,2/10/15
+114,m01986,,,,,,,,,
+115,m01513,,,,,,,,,
+116,m02957,,,,,,,,,
+117,m01596,,,,,,,,,
+118,m02770,,,,,,,,,
+119,m01401,,,,,,,,,
+120,m02453,,,,,,,,,
+121,m02174,,,,,,,,,
+122,m01368,,,,,,,,,
+123,m02357,,,,,,,,,
+124,m01383,,,,,,,,,
+125,m01334,,,,,,,,,
+126,m01795,148.0,replace,kegg_id,C11133,,,,updating KEGG annotations,2/9/15
+127,m01959,,,,,,,,,
+128,m02783,,,,,,,,,
+129,m02789,,,,,,,,,
+130,m02841,,,,,,,,,
+131,m02996,,,,,,,,,
+132,m01621,,,,,,,,,
+133,m02022,,,,,,,,,
+134,m01613,,,,,,,,,
+135,m01730,,,,,,,,,
+136,m02027,,,,,,,,,
+137,m02118,,,,,,,,,
+138,m02691,,,,,,,,,
+139,m03146,,,,,,,,,
+140,m01569,,,,,,,,,
+141,m02642,,,,,,,,,
+142,m01370,,,,,,,,,
+143,m02985,,,,,,,,,
+144,m01704,,,,,,,,,
+145,m01840,183.0,add,kegg_alt,C00095,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+146,m02817,,,,,,,,,
+147,m02982,,,,,,,,,
+148,m02136,,,,,,,,,
+149,m01438,66.0,add,kegg_alt,C01674,C00461 matches cpd_composition,,,updating KEGG annotations,2/9/15
+150,m01438,140.0,replace,kegg_id,C00461,C00461 matches cpd_composition,,,updating KEGG annotations,2/9/15
+151,m02885,,,,,,,,,
+152,m00626,,,,,,,,,
+153,m03098,,,,,,,,,
+154,m01285,,,,,,,,,
+155,m01666,,,,,,,,,
+156,m01673,,,,,,,,,
+157,m02362,,,,,,,,,
+158,m02587,,,,,,,,,
+159,m01745,,,,,,,,,
+160,m02998,,,,,,,,,
+161,m02814,,,,,,,,,
+162,m01671,,,,,,,,,
+163,m02658,,,,,,,,,
+164,m02924,,,,,,,,,
+165,m00549,,,,,,,,,
+166,m00516,,,,,,,,,
+167,m01288,,,,,,,,,
+168,m02583,,,,,,,,,
+169,m01289,,,,,,,,,
+170,m00268,,,,,,,,,
+171,m00267,77.0,replace,kegg_id,C05928,,,,updating KEGG annotations,2/9/15
+172,m02104,,,,,,,,,
+173,m02556,,,,,,,,,
+174,m02048,,,,,,,,,
+175,m02387,,,,,,,,,
+176,m02724,,,,,,,,,
+177,m03135,,,,,,,,,
+178,m03157,,,,,,,,,
+179,m02617,,,,,,,,,
+180,m01290,,,,,,,,,
+181,m00536,,,,,,,,,
+182,m02049,,,,,,,,,
+183,m01517,,,,,,,,,
+184,m01525,,,,,,,,,
+185,m01533,,,,,,,,,
+186,m01543,,,,,,,,,
+187,m01554,,,,,,,,,
+188,m02842,,,,,,,,,
+189,m02588,,,,,,,,,
+190,m01935,670.0,replace,kegg_id,C02483,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+191,m02050,,,,,,,,,
+192,m02370,,,,,,,,,
+193,m01758,,,,,,,,,
+194,m01115,,,,,,,,,
+195,m02903,,,,,,,,,
+196,m01279,,,,,,,,,
+197,m02337,,,,,,,,,
+198,m01590,,,,,,,,,
+199,m01619,,,,,,,,,
+200,m02348,1.0,add,chebi_id,CHEBI:3424,previously empty,,,adding new reactions from GO:MF,1/30/15
+201,m02348,188.0,add,kegg_alt,C15025,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+202,m02348,211.0,replace,kegg_id,C00318,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+203,m01737,,,,,,,,,
+204,m02150,,,,,,,,,
+205,m02164,,,,,,,,,
+206,m02198,1344.0,replace,cpd_name,sialyl-Lc4Cer,"IV3-a-Neu5Ac,III4-a-Fuc-Lc4Cer",,,setting up metabolic tasks,9/27/15
+207,m02198,1348.0,replace,kegg_id,G00047,"IV3-a-Neu5Ac,III4-a-Fuc-Lc4Cer",,,setting up metabolic tasks,9/30/15
+208,m01159,,,,,,,,,
+209,m01944,554.0,add,kegg_alt,C06141,,,,updating KEGG annotations,2/10/15
+210,m01944,1057.0,add,kegg_alt,C04927,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+211,m00097,,,,,,,,,
+212,m01945,,,,,,,,,
+213,m01948,,,,,,,,,
+214,m01393,,,,,,,,,
+215,m02019,,,,,,,,,
+216,m02023,1215.0,add,kegg_alt,G00117,GQ1b,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+217,m02023,1216.0,replace,kegg_id,C06139,GQ1,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+218,m02167,,,,,,,,,
+219,m02364,,,,,,,,,
+220,m02815,,,,,,,,,
+221,m02930,,,,,,,,,
+222,m02936,71.0,add,kegg_alt,C00369,,,,updating KEGG annotations,2/9/15
+223,m03118,,,,,,,,,
+224,m03123,,,,,,,,,
+225,m02191,,,,,,,,,
+226,m01743,,,,,,,,,
+227,m03151,,,,,,,,,
+228,m02516,,,,,,,,,
+229,m02462,,,,,,,,,
+230,m01308,,,,,,,,,
+231,m02450,,,,,,,,,
+232,m01965,,,,,,,,,
+233,m02445,,,,,,,,,
+234,m01913,,,,,,,,,
+235,m01983,,,,,,,,,
+236,m01910,184.0,add,kegg_alt,C00124,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+237,m01315,,,,,,,,,
+238,m03121,,,,,,,,,
+239,m03130,,,,,,,,,
+240,m03114,,,,,,,,,
+241,m01626,,,,,,,,,
+242,m02527,,,,,,,,,
+243,m02672,,,,,,,,,
+244,m01652,,,,,,,,,
+245,m02631,,,,,,,,,
+246,m01362,,,,,,,,,
+247,m02366,,,,,,,,,
+248,m01111,463.0,add,kegg_alt,C01877,,,,updating KEGG annotations,2/10/15
+249,m01111,464.0,add,kegg_alt,C01879,,,,updating KEGG annotations,2/10/15
+250,m01570,,,,,,,,,
+251,m02278,,,,,,,,,
+252,m02237,,,,,,,,,
+253,m00266,,,,,,,,,
+254,m00269,,,,,,,,,
+255,m01700,,,,,,,,,
+256,m02692,158.0,replace,kegg_id,C03541,,,,updating KEGG annotations,2/9/15
+257,m02980,,,,,,,,,
+258,m02119,,,,,,,,,
+259,m02105,,,,,,,,,
+260,m02046,,,,,,,,,
+261,m01585,,,,,,,,,
+262,m01741,,,,,,,,,
+263,m02675,,,,,,,,,
+264,m02938,,,,,,,,,
+265,m02646,,,,,,,,,
+266,m02494,,,,,,,,,
+267,m01696,,,,,,,,,
+268,m01784,,,,,,,,,
+269,m02674,,,,,,,,,
+270,m01689,,,,,,,,,
+271,m02047,,,,,,,,,
+272,m01451,,,,,,,,,
+273,m02352,,,,,,,,,
+274,m02560,1091.0,add,kegg_alt,C00162,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+275,m02909,604.0,add,kegg_alt,C00162,,,,updating KEGG annotations,2/10/15
+276,m01648,,,,,,,,,
+277,m02108,,,,,,,,,
+278,m02120,,,,,,,,,
+279,m02614,,,,,,,,,
+280,m01374,,,,,,,,,
+281,m01296,,,,,,,,,
+282,m01403,,,,,,,,,
+283,m01174,,,,,,,,,
+284,m00932,,,,,,,,,
+285,m00545,,,,,,,,,
+286,m00228,,,,,,,,,
+287,m00242,,,,,,,,,
+288,m02772,,,,,,,,,
+289,m02746,,,,,,,,,
+290,m02993,,,,,,,,,
+291,m03089,,,,,,,,,
+292,m01975,,,,,,,,,
+293,m02946,,,,,,,,,
+294,m01821,,,,,,,,,
+295,m02519,,,,,,,,,
+296,m02200,,,,,,,,,
+297,m02477,,,,,,,,,
+298,m01736,,,,,,,,,
+299,m01107,179.0,add,kegg_alt,C01017,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+300,m01107,202.0,replace,kegg_id,C00643,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+301,m01100,,,,,,,,,
+302,m02754,,,,,,,,,
+303,m02042,,,,,,,,,
+304,m01400,,,,,,,,,
+305,m02054,,,,,,,,,
+306,m02288,,,,,,,,,
+307,m02303,,,,,,,,,
+308,m02141,,,,,,,,,
+309,m02139,,,,,,,,,
+310,m02510,170.0,replace,cpd_name,(GlcNAc)5 (Man)3 (Asn)1,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+311,m02510,214.0,replace,kegg_id,G00019,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+312,m01712,,,,,,,,,
+313,m02880,,,,,,,,,
+314,m02586,,,,,,,,,
+315,m01327,,,,,,,,,
+316,m01330,,,,,,,,,
+317,m02145,,,,,,,,,
+318,m02440,,,,,,,,,
+319,m02661,,,,,,,,,
+320,m02394,190.0,add,kegg_alt,C00725,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+321,m02394,644.0,add,kegg_alt,C16241,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+322,m01356,64.0,add,kegg_alt,C06249,,,,updating KEGG annotations,2/9/15
+323,m01818,,,,,,,,,
+324,m00353,778.0,add,kegg_alt,C11061,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+325,m00613,336.0,add,kegg_alt,C08154,,,,updating KEGG annotations,2/10/15
+326,m00035,633.0,add,kegg_alt,D00628,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+327,m01019,,,,,,,,,
+328,m00620,337.0,add,kegg_alt,C08211,,,,updating KEGG annotations,2/10/15
+329,m01415,,,,,,,,,
+330,m00665,,,,,,,,,
+331,m00730,,,,,,,,,
+332,m01433,,,,,,,,,
+333,m02325,,,,,,,,,
+334,m01633,,,,,,,,,
+335,m00998,922.0,add,kegg_alt,C19477,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+336,m01003,,,,,,,,,
+337,m01007,,,,,,,,,
+338,m01021,,,,,,,,,
+339,m01033,,,,,,,,,
+340,m01069,,,,,,,,,
+341,m01070,945.0,add,kegg_alt,C11135,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+342,m01070,946.0,add,kegg_alt,C11136,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+343,m01071,,,,,,,,,
+344,m01109,,,,,,,,,
+345,m01158,,,,,,,,,
+346,m01249,,,,,,,,,
+347,m01256,,,,,,,,,
+348,m03096,,,,,,,,,
+349,m02902,,,,,,,,,
+350,m00744,,,,,,,,,
+351,m01711,,,,,,,,,
+352,m03138,,,,,,,,,
+353,m01799,,,,,,,,,
+354,m01309,1017.0,add,kegg_alt,C01780,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+355,m01338,,,,,,,,,
+356,m01339,,,,,,,,,
+357,m01344,,,,,,,,,
+358,m01326,,,,,,,,,
+359,m00002,171.0,add,kegg_alt,C09880,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+360,m00002,1254.0,replace,kegg_id,C06306,,updated annotations on the go,,adding new reactions from KEGG,2/18/15
+361,m00580,,,,,,,,,
+362,m01361,,,,,,,,,
+363,m01419,,,,,,,,,
+364,m01385,664.0,replace,kegg_id,C02094,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+365,m00001,,,,,,,,,
+366,m01418,,,,,,,,,
+367,m01988,,,,,,,,,
+368,m02963,,,,,,,,,
+369,m01595,,,,,,,,,
+370,m01617,,,,,,,,,
+371,m01632,,,,,,,,,
+372,m01630,,,,,,,,,
+373,m01098,,,,,,,,,
+374,m01647,,,,,,,,,
+375,m01655,205.0,replace,kegg_id,C05422,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+376,m01768,544.0,add,kegg_alt,C13008,,,,updating KEGG annotations,2/10/15
+377,m00577,,,,,,,,,
+378,m01298,,,,,,,,,
+379,m01787,,,,,,,,,
+380,m00402,,,,,,,,,
+381,m01850,1349.0,replace,cpd_name,ALeb antigen,,,,setting up metabolic tasks,9/30/15
+382,m01851,,,,,,,,,
+383,m01852,,,,,,,,,
+384,m01853,,,,,,,,,
+385,m02331,1070.0,add,kegg_alt,C06131,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+386,m01919,,,,,,,,,
+387,m01914,1049.0,add,kegg_alt,C06130,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+388,m01915,,,,,,,,,
+389,m01916,,,,,,,,,
+390,m01917,,,,,,,,,
+391,m02016,,,,,,,,,
+392,m02018,,,,,,,,,
+393,m02024,,,,,,,,,
+394,m02034,,,,,,,,,
+395,m00986,112.0,replace,kegg_id,C14209,,,,updating KEGG annotations,2/9/15
+396,m01163,,,,,,,,,
+397,m02171,,,,,,,,,
+398,m00816,,,,,,,,,
+399,m02475,,,,,,,,,
+400,m01244,518.0,add,kegg_alt,G00169,,,,updating KEGG annotations,2/10/15
+401,m01245,,,,,,,,,
+402,m00032,,,,,,,,,
+403,m00204,,,,,,,,,
+404,m02722,,,,,,,,,
+405,m01742,,,,,,,,,
+406,m01744,,,,,,,,,
+407,m00179,,,,,,,,,
+408,m02931,681.0,replace,kegg_id,C03640,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+409,m02897,,,,,,,,,
+410,m03001,,,,,,,,,
+411,m00734,,,,,,,,,
+412,m02969,,,,,,,,,
+413,m02967,,,,,,,,,
+414,m03141,,,,,,,,,
+415,m03142,683.0,replace,kegg_id,C05443,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+416,m00325,,,,,,,,,
+417,m00371,791.0,add,kegg_alt,C13790,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+418,m00403,96.0,replace,kegg_id,C18218,,,,updating KEGG annotations,2/9/15
+419,m00432,317.0,add,kegg_alt,C05294,,,,updating KEGG annotations,2/10/15
+420,m03154,,,,,,,,,
+421,m01800,,,,,,,,,
+422,m01640,,,,,,,,,
+423,m01286,,,,,,,,,
+424,m01287,,,,,,,,,
+425,m02155,,,,,,,,,
+426,m01989,,,,,,,,,
+427,m01020,,,,,,,,,
+428,m01303,,,,,,,,,
+429,m01870,,,,,,,,,
+430,m01872,,,,,,,,,
+431,m01887,,,,,,,,,
+432,m02659,,,,,,,,,
+433,m02137,,,,,,,,,
+434,m01874,,,,,,,,,
+435,m01881,,,,,,,,,
+436,m01883,,,,,,,,,
+437,m01884,,,,,,,,,
+438,m01603,,,,,,,,,
+439,m01604,,,,,,,,,
+440,m01955,,,,,,,,,
+441,m00771,874.0,add,kegg_alt,C11544,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+442,m00771,875.0,add,kegg_alt,C19792,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+443,m02458,,,,,,,,,
+444,m01610,,,,,,,,,
+445,m01612,,,,,,,,,
+446,m01006,114.0,replace,kegg_id,C16677,,,,updating KEGG annotations,2/9/15
+447,m03161,,,,,,,,,
+448,m03039,,,,,,,,,
+449,m02332,,,,,,,,,
+450,m02751,,,,,,,,,
+451,m02193,,,,,,,,,
+452,m02161,,,,,,,,,
+453,m02426,,,,,,,,,
+454,m02360,,,,,,,,,
+455,m02834,,,,,,,,,
+456,m02561,579.0,add,kegg_alt,C00162,,,,updating KEGG annotations,2/10/15
+457,m02125,,,,,,,,,
+458,m02184,,,,,,,,,
+459,m02471,,,,,,,,,
+460,m02819,,,,,,,,,
+461,m01716,,,,,,,,,
+462,m03155,,,,,,,,,
+463,m02001,,,,,,,,,
+464,m02338,,,,,,,,,
+465,m01615,,,,,,,,,
+466,m01669,,,,,,,,,
+467,m01765,,,,,,,,,
+468,m01833,,,,,,,,,
+469,m01859,,,,,,,,,
+470,m02028,1217.0,add,kegg_alt,G00112,GT1a,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+471,m02028,1218.0,replace,kegg_id,C06138,GT1a,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+472,m02609,,,,,,,,,
+473,m02620,,,,,,,,,
+474,m02653,,,,,,,,,
+475,m02712,,,,,,,,,
+476,m02836,,,,,,,,,
+477,m02943,,,,,,,,,
+478,m02986,,,,,,,,,
+479,m03052,,,,,,,,,
+480,m02991,195.0,add,kegg_alt,C00320,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+481,m01682,,,,,,,,,
+482,m03131,,,,,,,,,
+483,m02434,,,,,,,,,
+484,m01435,1273.0,replace,cpd_name,chenodeoxycholic acid,chenodiol[c],,,formulating biomass components and curating bile acid metabolism,6/10/15
+485,m02402,,,,,,,,,
+486,m03129,682.0,replace,kegg_id,C07880,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+487,m02966,1117.0,add,kegg_alt,C16868,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+488,m02965,,,,,,,,,
+489,m02000,,,,,,,,,
+490,m02004,557.0,add,kegg_alt,C05464,,,,updating KEGG annotations,2/10/15
+491,m02004,558.0,add,kegg_alt,C05466,,,,updating KEGG annotations,2/10/15
+492,m90166,1259.0,replace,cpd_composition,C24H40O5,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+493,m90166,1274.0,replace,cpd_name,alpha-muricholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+494,m90166,1317.0,replace,kegg_id,C17647,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+495,m90168,1261.0,replace,cpd_composition,C24H40O5,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+496,m90168,1276.0,replace,cpd_name,beta-muricholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+497,m90168,1319.0,replace,kegg_id,C17726,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+498,m90169,1277.0,replace,cpd_name,dehydrocholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+499,m90169,1320.0,replace,kegg_id,C13154,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+500,m00745,1272.0,replace,cpd_name,deoxycholic acid,"3alpha,12alpha-dihydroxy-5beta-cholanate[c]",,,formulating biomass components and curating bile acid metabolism,6/10/15
+501,m90170,1262.0,replace,cpd_composition,C26H45NO7S,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+502,m90170,1278.0,replace,cpd_name,tauro-alpha-muricholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+503,m90170,1321.0,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+504,m90171,1279.0,replace,cpd_name,omega-muricholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+505,m90171,1322.0,replace,kegg_id,C17727,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+506,m02964,,,,,,,,,
+507,m90172,1256.0,add,chebi_id,CHEBI:52022,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+508,m90172,1280.0,replace,cpd_name,taurohyocholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+509,m90173,1257.0,replace,cpd_alt,glyco-gamma-muricholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+510,m90173,1281.0,replace,cpd_name,glycohyocholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+511,m90173,1323.0,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+512,m90174,1282.0,replace,cpd_name,glycohyodeoxycholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+513,m90174,1324.0,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+514,m90175,1283.0,replace,cpd_name,glycodehydrocholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+515,m90175,1325.0,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+516,m90177,1284.0,replace,cpd_name,hyocholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+517,m90177,1326.0,replace,kegg_id,C17649,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+518,m90178,1263.0,replace,cpd_composition,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+519,m90178,1285.0,replace,cpd_name,tauro-omega-muricholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+520,m90178,1327.0,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+521,m90179,1264.0,replace,cpd_composition,C26H45NO7S,C26H45NO7S - C24H40O5 = C2H5NO2S (C2H7NO3S),,,formulating biomass components and curating bile acid metabolism,6/10/15
+522,m90179,1286.0,replace,cpd_name,tauro-beta-muricholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+523,m90179,1315.0,replace,hmdb_id,HMDB00932,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+524,m90179,1328.0,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+525,m90180,1265.0,replace,cpd_composition,C24H40O4,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+526,m90180,1287.0,replace,cpd_name,murideoxycholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+527,m90180,1329.0,replace,kegg_id,C15515,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+528,m90181,1288.0,replace,cpd_name,taurodehydrocholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+529,m90181,1330.0,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+530,m90190,1297.0,replace,cpd_name,protein,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+531,m90190,1340.0,replace,met_mw,130,protein amino acid,,,formulating biomass components and curating bile acid metabolism,7/10/15
+532,m90191,1298.0,replace,cpd_name,free essential amino acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+533,m90191,1341.0,replace,met_mw,,free essential amino acid,,,formulating biomass components and curating bile acid metabolism,7/10/15
+534,m90192,1299.0,replace,cpd_name,free nonessential amino acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+535,m90192,1342.0,replace,met_mw,,free nonessential amino acid,,,formulating biomass components and curating bile acid metabolism,7/10/15
+536,m90193,1300.0,replace,cpd_name,intracellular bile acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+537,m90194,1301.0,replace,cpd_name,glycogen storage pool,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+538,m90195,1302.0,replace,cpd_name,intracellular lipids,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+539,m90197,1270.0,replace,cpd_composition,C24H40O4+taurine,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+540,m90197,1304.0,replace,cpd_name,tauro-hyodeoxycholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+541,m90199,1306.0,replace,cpd_name,misc biomass metabolites,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+542,m90199,1343.0,replace,met_mw,257,misc intracellular metabolites,,,formulating biomass components and curating bile acid metabolism,7/10/15
+543,m90200,1351.0,replace,cpd_name,serum bile acid,,,,setting up metabolic tasks,9/30/15
+544,m01849,1347.0,replace,cpd_name,sialyl-Lewis (a) antigen,,,,setting up metabolic tasks,9/27/15
+545,m02565,1355.0,replace,cpd_name,Neu5Gc,N-glycolylneuraminate,,,setting up metabolic tasks,11/1/15
+546,m99999,1307.0,replace,cpd_name,cellular biomass,,,,formulating biomass components and curating bile acid metabolism,6/10/15

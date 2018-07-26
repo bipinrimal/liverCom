@@ -1,0 +1,42 @@
+{
+"metabolites":[
+{
+"id":"4crsol_c",
+"name":"P-Cresol",
+"compartment":"",
+"notes":{
+"original_bigg_ids":[
+"4crsol",
+"4crsol_c",
+"_4crsol_c"
+]
+},
+"annotation":[
+[
+"KEGG Compound",
+"http://identifiers.org/kegg.compound/C01468"
+],
+[
+"CHEBI",
+"http://identifiers.org/chebi/CHEBI:11981"
+],
+[
+"Human Metabolome Database",
+"http://identifiers.org/hmdb/HMDB01858"
+],
+[
+"BioCyc",
+"http://identifiers.org/biocyc/META:CPD-108"
+],
+[
+"MetaNetX (MNX) Chemical",
+"http://identifiers.org/metanetx.chemical/MNXM828"
+],
+[
+"SEED Compound",
+"http://identifiers.org/seed.compound/cpd01042"
+]
+]
+}
+]
+}
