@@ -1,4 +1,4 @@
-h54%Read the models
+zh54%Read thze models
 cl =load('colstridium_ljungdahlii.mat')
 cl=cl.iHN637;
 % convert the compartment format from e.g., '_c' to '[c]'

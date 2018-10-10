@@ -1,0 +1,502 @@
+,Abbreviation,Description,Compartment,KEGG ID,PubChem ID,ChEBI ID
+0,m01721[c],DNA,c,C00039,,CHEBI:16991
+1,m01368[c],ascorbate,c,C00072,,CHEBI:29073
+2,m02847[c],RNA,c,C00046,,
+3,m02038[s],guanosine,s,C00387,,CHEBI:16750
+4,m02554[s],NADP+,s,C00006,,CHEBI:18009
+5,m02552[s],NAD+,s,C00003,,CHEBI:15846
+6,m01974[s],glutamate,s,C00025,,CHEBI:16015;CHEBI:29985
+7,m03100[s],tyramine-O-sulfate,s,,,
+8,m02470[s],methanol,s,C00132,,CHEBI:17790
+9,m02040[s],H2O,s,C00001,,CHEBI:15377
+10,m02769[s],progesterone,s,C00410,,
+11,m02723[s],phenylacetylglycine,s,C05598,,CHEBI:27480
+12,m02630[s],O2,s,C00007,,CHEBI:15379
+13,m03134[s],valeric acid,s,C00803,,CHEBI:17418;CHEBI:31011
+14,m01307[s],alanine,s,C00041,,CHEBI:16977
+15,m01369[s],asparagine,s,C00152,,CHEBI:17196
+16,m01365[s],arginine,s,C00062,,CHEBI:16467
+17,m01588[s],citrulline,s,C00327,,CHEBI:16349
+18,m01442[s],chloride,s,C00698,,CHEBI:17996
+19,m03113[s],umbelliferone,s,C09315,,CHEBI:27510
+20,m02680[s],pantothenate,s,C00864,,CHEBI:29032
+21,m02945[s],sucrose,s,C00089,,CHEBI:17992
+22,m03106[s],UDP,s,C00015,,CHEBI:17659
+23,m02407[s],L-metanephrine,s,C05588,,
+24,m02414[s],LPL,s,,,
+25,m02403[s],L-lactate,s,C00186,,CHEBI:422
+26,m02418[s],LTD4,s,C05951,,CHEBI:28666
+27,m01641[s],D-aspartate,s,C00402,,CHEBI:17364
+28,m01982[s],glycerate,s,C00258,,CHEBI:32398
+29,m02386[s],limonene,s,C06078,,CHEBI:15384
+30,m02673[s],paclitaxel,s,C07394,,CHEBI:45863
+31,m01830[s],folate,s,C00504,,CHEBI:27470
+32,m03101[s],tyrosine,s,C00082,,CHEBI:17895
+33,m01252[s],acetate,s,C00033,,CHEBI:15366;CHEBI:30089
+34,m01306[s],AKG,s,C00026,,CHEBI:30915;CHEBI:16810
+35,m01687[s],dgpi_prot heparan sulfate,s,,,
+36,m02389[s],linolenate,s,C06427,,CHEBI:27432;CHEBI:32387
+37,m01695[s],digalactosylceramidesulfate,s,C06127,,
+38,m02785[s],prostaglandin E1,s,C04741,,CHEBI:15544
+39,m02937[s],starch structure 2,s,,,
+40,m02384[s],L-iduronic acid,s,C06472,,CHEBI:28481
+41,m03044[s],trichloroethene,s,C06790,,CHEBI:16602
+42,m01410[s],butyrate,s,C00246,,CHEBI:30772;CHEBI:17968
+43,m02896[s],serine,s,C00065,,CHEBI:17115
+44,m02744[s],phylloquinone,s,C02059,,CHEBI:18067
+45,m01740[s],D-ornithine,s,C00515,,CHEBI:16176
+46,m01253[s],acetoacetate,s,C00164,,CHEBI:13705;CHEBI:15344
+47,m00157[s],(R)-3-hydroxybutanoate,s,C01089,,CHEBI:10983;CHEBI:17066
+48,m00648[s],2-hydroxybutyrate,s,C05984,,
+49,m02182[s],isocaproic-aldehyde,s,C02373,,CHEBI:17998
+50,m02199[s],"IV3NeuAc,III3Fuc-nLc4Cer",s,G00063,,
+51,m01861[s],fucosyl-galactosylgloboside,s,,,
+52,m02833[s],retinoate,s,C00777,,CHEBI:15367;CHEBI:35291
+53,m01987[s],glycochenodeoxycholate,s,C05466,,CHEBI:36274;CHEBI:36252
+54,m02026[s],GSH,s,C00051,,CHEBI:16856
+55,m02170[s],inosine,s,C00294,,CHEBI:17596
+56,m01629[s],cystine,s,C00491,,CHEBI:16283
+57,m02353[s],LDL,s,,,
+58,m01796[s],ethanol,s,C00469,,CHEBI:16236
+59,m02907[s],sialyl-Tn antigen,s,G00035,,
+60,m02962[s],taurochenodeoxycholate,s,C05465,,CHEBI:16525;CHEBI:9407
+61,m01788[s],estriol,s,C05141,,CHEBI:27974
+62,m01966[s],"glucose-1,6-bisphosphate",s,C01231,,CHEBI:18148
+63,m01797[s],ethanolamine,s,C00189,,CHEBI:16000
+64,m01938[s],gamma-tocotrienol,s,C14155,,
+65,m01397[s],bilirubin-bisglucuronoside,s,C05787,,CHEBI:18392
+66,m01398[s],bilirubin-monoglucuronoside,s,C03374,,CHEBI:16427
+67,m01445[s],cholate,s,C00695,,CHEBI:16359
+68,m01672[s],deoxyribose,s,C01801,,CHEBI:28816
+69,m01789[s],estrone 3-sulfate,s,C02538,,CHEBI:17474
+70,m02159[s],hypoxanthine,s,C00262,,CHEBI:17368
+71,m02452[s],maltotriose,s,C01835,,CHEBI:27931
+72,m02997[s],thymine,s,C00178,,CHEBI:17821
+73,m03117[s],undecylic acid,s,,,CHEBI:32368;CHEBI:32369
+74,m01260[s],acetylcholine,s,C01996,,CHEBI:15355
+75,m01396[s],bilirubin,s,C00486,,CHEBI:16990
+76,m01999[s],glycolipid,s,,,
+77,m02037[s],guanine,s,C00242,,CHEBI:16235
+78,m02843[s],ribose,s,C00121,,CHEBI:47013
+79,m02928[s],sphinganine-1-phosphate,s,C01120,,CHEBI:16893
+80,m02961[s],taurine,s,C00245,,CHEBI:15891
+81,m02524[s],N-acetyl-D-mannosamine,s,C00645,,CHEBI:17122
+82,m02983[s],thiamin-P,s,C01081,,CHEBI:9533
+83,m01962[s],glucosamine,s,C00329,,CHEBI:47977
+84,m01280[s],adenosine,s,C00212,,CHEBI:16335
+85,m01614[s],corticosterone,s,C02140,,CHEBI:101161
+86,m01668[s],deoxycytidine,s,C00881,,CHEBI:15698
+87,m02369[s],leukotriene E4,s,C05952,,CHEBI:15650
+88,m02153[s],hydroxy-nifedipine,s,,,
+89,m02994[s],thromboxane A2,s,C02198,,CHEBI:15627
+90,m01665[s],dem2emgacpail_prot heparan sulfate,s,,,
+91,m02926[s],spermine,s,C00750,,CHEBI:15746
+92,m02578[s],NH3,s,C00014,,CHEBI:16134
+93,m03147[s],VLDL,s,,,
+94,m01628[s],cysteine,s,C00097,,CHEBI:17561
+95,m03120[s],urate,s,C00366,,CHEBI:17775
+96,m01413[s],Ca2+,s,C00076,,CHEBI:29108
+97,m02949[s],sulfite,s,C00094,,CHEBI:48854;CHEBI:17359
+98,m02740[s],phospholipids extracellular pool,s,C00865,,CHEBI:16247
+99,m00970[s],4-aminobutyrate,s,C00334,,CHEBI:16865
+100,m01638[s],D-alanine,s,C00133,,CHEBI:15570
+101,m01786[s],estradiol-17beta 3-glucuronide,s,C05503,,CHEBI:36489
+102,m01714[s],dITP,s,C01345,,CHEBI:28807
+103,m02354[s],L-dopa,s,C00355,,CHEBI:15765
+104,m01450[s],cholesterol,s,C00187,,CHEBI:16113
+105,m01587[s],citrate,s,C00158,,CHEBI:30769
+106,m01659[s],dehydroepiandrosterone sulfate,s,C04555,,CHEBI:16814
+107,m02786[s],prostaglandin E2,s,C00584,,CHEBI:15551
+108,m02813[s],pyridoxal,s,C00250,,CHEBI:17310
+109,m02968[s],testosterone sulfate,s,,,
+110,m01986[s],glycine,s,C00037,,CHEBI:15428
+111,m01513[s],choline,s,C00114,,CHEBI:15354
+112,m02957[s],TAG-extraction,s,C00422,,CHEBI:17855
+113,m01596[s],CO2,s,C00011,,CHEBI:16526
+114,m02770[s],proline,s,C00148,,CHEBI:17203
+115,m01401[s],biotin,s,C00120,,CHEBI:15956
+116,m02453[s],mannose,s,C00159,,CHEBI:4208;CHEBI:16024
+117,m02174[s],iodide,s,C00708,,CHEBI:16382
+118,m01368[s],ascorbate,s,C00072,,CHEBI:29073
+119,m02357[s],lepidimoide,s,C08241,,
+120,m01383[s],beta-alanine,s,C00099,,CHEBI:16958
+121,m01334[s],AMP,s,C00020,,CHEBI:16027
+122,m01795[s],estrone-glucuronide,s,C11133,,CHEBI:28919
+123,m01959[s],globoside,s,C03272,,CHEBI:18259;CHEBI:61360
+124,m02783[s],prostaglandin D2,s,C00696,,CHEBI:15555
+125,m02789[s],prostaglandin F2alpha,s,C00639,,CHEBI:15553
+126,m02841[s],ribitol,s,C00474,,CHEBI:15963
+127,m02996[s],thymidine,s,C00214,,CHEBI:17748
+128,m01621[s],creatinine,s,C00791,,CHEBI:16737
+129,m02022[s],gpi_sig,s,,,
+130,m01613[s],core 8,s,,,
+131,m01730[s],dolichol,s,C00381,,CHEBI:16091
+132,m02027[s],GSSG,s,C00127,,CHEBI:17858
+133,m02118[s],hexaglutamyl-folate(DHF),s,,,
+134,m02691[s],pentaglutamyl-folate(DHF),s,,,
+135,m03146[s],VLDL remnant,s,,,
+136,m01569[s],chylomicron remnant,s,,,
+137,m02642[s],octanoic acid,s,C06423,,CHEBI:28837;CHEBI:25646
+138,m01370[s],aspartate,s,C00049,,CHEBI:17053
+139,m02985[s],thiamin-PPP,s,C03028,,CHEBI:9534
+140,m01704[s],dihydroneopterin,s,C04874,,CHEBI:17001
+141,m01840[s],fructose,s,C00095,,CHEBI:15824
+142,m02817[s],pyridoxine,s,C00314,,CHEBI:16709
+143,m02982[s],thiamin,s,C00378,,CHEBI:18385
+144,m02136[s],homoserine,s,C00263,,CHEBI:15699
+145,m01438[s],chitin-component,s,C00461,,
+146,m02885[s],selenate,s,C05697,,CHEBI:18170
+147,m00626[s],2-acetyl-1-alkyl-sn-glycero-3-phosphocholine,s,C04598,,CHEBI:36707
+148,m03098[s],type IIIAb,s,G00075,,
+149,m01285[s],ADP,s,C00008,,CHEBI:16761
+150,m01666[s],deoxyadenosine,s,C00559,,CHEBI:17256
+151,m01673[s],deoxyuridine,s,C00526,,CHEBI:16450
+152,m02362[s],leukotriene A4,s,C00909,,CHEBI:15651
+153,m02587[s],nifedipine,s,C07266,,CHEBI:7565
+154,m01745[s],D-tagatose,s,C00795,,CHEBI:4249
+155,m02998[s],thyroxine,s,C01829,,CHEBI:18332
+156,m02814[s],pyridoxal-phosphate,s,C00018,,CHEBI:18405
+157,m01671[s],deoxyinosine,s,C05512,,CHEBI:28997
+158,m02658[s],ornithine,s,C00077,,CHEBI:15729
+159,m02924[s],spermine dialdehyde,s,,,
+160,m00549[s],1-organyl-2-lyso-sn-glycero-3-phosphocholine,s,C04317,,
+161,m00516[s],1-alkyl-2-lysoglycerol-3-phosphocholine,s,C04317,,
+162,m01288[s],ADP-ribose,s,C00301,,CHEBI:16960
+163,m02583[s],nicotinamide,s,C00153,,CHEBI:17154
+164,m01289[s],ADP-ribose-2-phosphate,s,C03246,,CHEBI:37463
+165,m00268[s],10-formyl-THF-glu(6),s,,,
+166,m00267[s],10-formyl-THF-glu(5),s,C05928,,
+167,m02104[s],heptaglutamyl-folate(DHF),s,,,
+168,m02556[s],naphthalene,s,C00829,,CHEBI:16482
+169,m02048[s],HDL,s,,,
+170,m02387[s],linoleate,s,C01595,,CHEBI:17351;CHEBI:30245
+171,m02724[s],phenylalanine,s,C00079,,CHEBI:17295
+172,m03135[s],valine,s,C00183,,CHEBI:16414
+173,m03157[s],zinc,s,C00038,,CHEBI:29105
+174,m02617[s],noradrenaline,s,C00547,,CHEBI:18357;CHEBI:33569
+175,m01290[s],adrenaline,s,C00788,,CHEBI:33568
+176,m00536[s],1-methylnicotinamide,s,C02918,,CHEBI:16797
+177,m02049[s],heme,s,C00032,,CHEBI:17627
+178,m01517[s],chondroitin sulfate A (GalNAc4S-GlcA) proteoglycan,s,,,
+179,m01525[s],chondroitin sulfate B - dermatan sulfate (IdoA2S-GalNAc4S) proteoglycan,s,,,
+180,m01533[s],chondroitin sulfate C (GalNAc6S-GlcA) proteoglycan,s,,,
+181,m01543[s],chondroitin sulfate D (GlcNAc6S-GlcA2S) proteoglycan,s,,,
+182,m01554[s],"chondroitin sulfate E (GalNAc4,6diS-GlcA) proteoglycan",s,,,
+183,m02842[s],riboflavin,s,C00255,,CHEBI:17015
+184,m02588[s],nitrite,s,C00088,,CHEBI:16301
+185,m01935[s],gamma-tocopherol,s,C02483,,
+186,m02050[s],hemoglobin,s,C01708,,CHEBI:5656
+187,m02370[s],leukotriene F4,s,C06462,,CHEBI:27491
+188,m01758[s],D-xylose,s,C00181,,CHEBI:15936
+189,m01115[s],5-methyl-THF,s,C00440,,CHEBI:15641
+190,m02903[s],"sialyl(2,3)-sialyl(2,6)-galactosylgloboside",s,,,
+191,m01279[s],adenine,s,C00147,,CHEBI:16708
+192,m02337[s],L-arabinose,s,C00259,,CHEBI:17535
+193,m01590[s],CMP,s,C00055,,CHEBI:17361
+194,m01619[s],creatine,s,C00300,,CHEBI:16919
+195,m02348[s],L-carnitine,s,C00318,,CHEBI:16347;CHEBI:3424
+196,m01737[s],dopamine-3-O-sulfate,s,C13690,,CHEBI:37946
+197,m02150[s],hydroxylated-ebastine,s,,,
+198,m02164[s],III3Fuc-nLc6Cer,s,G00076,,
+199,m02198[s],sialyl-Lc4Cer,s,G00047,,
+200,m01159[s],6-deoxy-L-galactose,s,C01019,,CHEBI:2181
+201,m01944[s],GD1beta,s,,,
+202,m00097[s],(5-L-glutamyl)-L-amino acid,s,C03740,,
+203,m01945[s],GD1c,s,G00126,,
+204,m01948[s],GDP,s,C00035,,CHEBI:17552
+205,m01393[s],betaine,s,C00719,,CHEBI:17750
+206,m02019[s],GP1calpha,s,,,
+207,m02023[s],GQ1b,s,C06139,,CHEBI:27515
+208,m02167[s],IMP,s,C00130,,CHEBI:17202
+209,m02364[s],leukotriene B4,s,C02165,,CHEBI:15647
+210,m02815[s],pyridoxamine,s,C00534,,CHEBI:16410
+211,m02930[s],sphingosine-1-phosphate,s,C06124,,CHEBI:37550
+212,m02936[s],starch structure 1,s,,,
+213,m03118[s],uracil,s,C00106,,CHEBI:17568
+214,m03123[s],uridine,s,C00299,,CHEBI:16704
+215,m02191[s],itaconate,s,C00490,,CHEBI:17240
+216,m01743[s],D-ribulose,s,C00309,,CHEBI:17173
+217,m03151[s],xanthurenate,s,C02470,,
+218,m02516[s],n5m2masn,s,,,
+219,m02462[s],mem2emgacpail_prot heparan sulfate,s,,,
+220,m01308[s],albumin,s,,,
+221,m02450[s],maltose,s,C00208,,CHEBI:17306
+222,m01965[s],glucose,s,C00031,,CHEBI:4167;CHEBI:17925
+223,m02445[s],maltodecaose,s,,,
+224,m01913[s],galactosylglycerol,s,C05401,,CHEBI:15754
+225,m01983[s],glycerol,s,C00116,,CHEBI:17754
+226,m01910[s],galactose,s,C00124,,CHEBI:4139;CHEBI:12936
+227,m01315[s],alloxan,s,,,
+228,m03121[s],urea,s,C00086,,CHEBI:16199
+229,m03130[s],UTP,s,C00075,,CHEBI:15713;CHEBI:46398
+230,m03114[s],UMP,s,C00105,,CHEBI:16695
+231,m01626[s],cys-gly,s,C01419,,CHEBI:4047
+232,m02527[s],N-acetylglucosamine,s,C00140,,CHEBI:17411
+233,m02672[s],PA6,s,G00018,,
+234,m01652[s],de-Fuc form of PA6,s,,,
+235,m02631[s],O2-,s,C00704,,CHEBI:18421
+236,m01362[s],arachidonate,s,C00219,,CHEBI:15843;CHEBI:32395
+237,m02366[s],leukotriene C4,s,C02166,,CHEBI:16978
+238,m01111[s],5-L-gamma-glutamyl,s,,,
+239,m01570[s],chylomicron,s,,,
+240,m02278[s],keratan sulfate I,s,,,
+241,m02237[s],"keratan sulfate I, degradation product 1",s,,,
+242,m00266[s],10-formyl-THF,s,C00234,,CHEBI:15637
+243,m00269[s],10-formyl-THF-glu(7),s,,,
+244,m01700[s],dihydrofolate,s,C00415,,CHEBI:15633
+245,m02692[s],pentaglutamyl-folate(THF),s,C03541,,
+246,m02980[s],THF,s,C00101,,CHEBI:15635
+247,m02119[s],hexaglutamyl-folate(THF),s,,,
+248,m02105[s],heptaglutamyl-folate(THF),s,,,
+249,m02046[s],HCO3-,s,C00288,,CHEBI:17544
+250,m01585[s],cis-vaccenic acid,s,C08367,,CHEBI:50464;CHEBI:30827
+251,m01741[s],DPA,s,C16513,,CHEBI:53488
+252,m02675[s],palmitolate,s,C08362,,CHEBI:28716;CHEBI:32372
+253,m02938[s],stearate,s,C01530,,CHEBI:28842;CHEBI:25629
+254,m02646[s],oleate,s,C00712,,CHEBI:16196;CHEBI:30823
+255,m02494[s],myristic acid,s,C06424,,CHEBI:28875;CHEBI:30807
+256,m01696[s],dihomo-gamma-linolenate,s,C03242,,CHEBI:53486
+257,m01784[s],EPA,s,C06428,,CHEBI:28364;CHEBI:58562
+258,m02674[s],palmitate,s,C00249,,CHEBI:15756;CHEBI:7896
+259,m01689[s],DHA,s,C06429,,CHEBI:28125
+260,m02047[s],HDL remnant,s,,,
+261,m01451[s],cholesterol-ester pool,s,C02530,,CHEBI:17002
+262,m02352[s],LDL remnant,s,,,
+263,m02560[s],NEFA blood pool in,s,,,
+264,m02909[s],SMCFA-blood-pool,s,,,
+265,m01648[s],decanoic acid,s,C01571,,CHEBI:30813;CHEBI:27689
+266,m02108[s],heptylic acid,s,C05799,,CHEBI:45571;CHEBI:32362
+267,m02120[s],hexanoic acid,s,C01585,,CHEBI:30776;CHEBI:17120
+268,m02614[s],nonanoic acid,s,C01601,,CHEBI:29019;CHEBI:32361
+269,m01374[s],benzo[a]pyrene,s,C07535,,CHEBI:29865
+270,m01296[s],aflatoxin B1,s,C06800,,CHEBI:2504
+271,m01403[s],bromobenzene,s,C11036,,CHEBI:3179
+272,m01174[s],"7,12-dimethylbenz[a]anthracene",s,C19488,,
+273,m00932[s],4-(n-nitrosomethylamino)-1-(3-pyridyl)-1-butanone,s,C16453,,
+274,m00545[s],1-nitronaphthalene,s,C14040,,CHEBI:34104
+275,m00228[s],"1,1-dichloroethylene",s,C14039,,CHEBI:34031
+276,m00242[s],"1,2-dibromoethane",s,C11088,,
+277,m02772[s],propanoate,s,C00163,,CHEBI:30768;CHEBI:17272
+278,m02746[s],phytanic acid,s,C01607,,CHEBI:16285;CHEBI:37257
+279,m02993[s],threonine,s,C00188,,CHEBI:16857
+280,m03089[s],tryptophan,s,C00078,,CHEBI:16828
+281,m01975[s],glutamine,s,C00064,,CHEBI:18050
+282,m02946[s],sulfate,s,C00059,,CHEBI:16189;CHEBI:26836
+283,m01821[s],Fe2+,s,C14818,,CHEBI:29033
+284,m02519[s],Na+,s,C01330,,CHEBI:29101
+285,m02200[s],K+,s,C00238,,CHEBI:29103
+286,m02477[s],methylimidazoleacetic acid,s,C05828,,CHEBI:8122
+287,m01736[s],dopamine,s,C03758,,CHEBI:18243
+288,m01107[s],5-hydroxy-L-tryptophan,s,C00643,,CHEBI:17780
+289,m01100[s],5-formyl-THF,s,C03479,,CHEBI:15640
+290,m02754[s],PNP,s,C00870,,CHEBI:16836
+291,m02042[s],H2S,s,C00283,,CHEBI:16136
+292,m01400[s],biocytin,s,C05552,,CHEBI:27870
+293,m02054[s],heparan sulfate proteoglycan,s,,,
+294,m02288[s],keratan sulfate II (core 2-linked),s,,,
+295,m02303[s],keratan sulfate II (core 4-linked),s,,,
+296,m02141[s],hyaluronate,s,C00518,,CHEBI:16336
+297,m02139[s],"hyaluronan biosynthesis, precursor 1",s,C04794,,CHEBI:16126
+298,m02510[s],(GlcNAc)5 (Man)3 (Asn)1,s,G00019,,
+299,m01712[s],disialyl-T antigen,s,G00027,,
+300,m02880[s],sarcosine,s,C00213,,CHEBI:15611
+301,m02586[s],nicotinate,s,C00253,,CHEBI:15940
+302,m01327[s],alpha-tocopherol,s,C02477,,CHEBI:18145
+303,m01330[s],alpha-tocotrienol,s,C14153,,CHEBI:33270
+304,m02145[s],hydrogen-cyanide,s,C01326,,CHEBI:18407
+305,m02440[s],malonate,s,C00383,,CHEBI:30794
+306,m02661[s],oxalate,s,C00209,,CHEBI:16995
+307,m02394[s],lipoic acid,s,C00725,,CHEBI:16494
+308,m01356[s],apoC-lys,s,,,
+309,m01818[s],fatty acid-retinol pool,s,C00162,,CHEBI:35366
+310,m00353[s],13-cis-retinoyl-glucuronide,s,,,
+311,m00613[s],"24R,25-dihyoxyvitamin D2",s,,,
+312,m00035[s],"(24R)-24,25-dihydroxycalciol",s,C07712,,CHEBI:28818
+313,m01019[s],4-nitrocatechol,s,C02235,,CHEBI:16318
+314,m00620[s],25-hydroxyvitamin D2,s,,,
+315,m01415[s],calcidiol,s,C01561,,CHEBI:17933
+316,m00665[s],2-methylcitrate,s,C02225,,CHEBI:15598
+317,m00730[s],"3,4-dihydroxyphenylethyleneglycol",s,C05576,,
+318,m01433[s],cGMP,s,C00942,,CHEBI:16356
+319,m02325[s],L-3-amino-isobutanoate,s,C03284,,CHEBI:33094
+320,m01633[s],D-3-amino-isobutanoate,s,C01205,,CHEBI:16320
+321,m00998[s],4-hydroxy-debrisoquine,s,,,
+322,m01003[s],4-hydroxyphenylacetate,s,C00642,,CHEBI:18101
+323,m01007[s],4-hydroxy-tolbutamide,s,,,
+324,m01021[s],4-nitrophenyl-sulfate,s,,,CHEBI:35422
+325,m01033[s],4-pyridoxate,s,C00847,,CHEBI:17405
+326,m01069[s],5-alpha-dihydrotestosterone,s,C03917,,CHEBI:16330
+327,m01070[s],5alpha-dihydrotestosterone-glucuronide,s,,,
+328,m01071[s],5alpha-dihydrotestosterone-sulfate,s,,,
+329,m01109[s],5-hydroxy-omeprazole,s,,,
+330,m01158[s],6beta-hydroxytestosterone,s,C14497,,CHEBI:34477
+331,m01249[s],acetaldehyde,s,C00084,,CHEBI:15343
+332,m01256[s],acetone,s,C00207,,CHEBI:15347
+333,m03096[s],type III A glycolipid,s,G00059,,
+334,m02902[s],"sialyl(1,3)-sialyl(2,6)-galactosylgloboside",s,,,
+335,m00744[s],"3,8-LD1",s,G00064,,
+336,m01711[s],disialylgalactosylgloboside,s,,,
+337,m03138[s],VI3NeuAc-nLc6Cer,s,G00088,,
+338,m01799[s],etiocholan-3alpha-ol-17-one 3-glucuronide,s,C11136,,CHEBI:37451
+339,m01309[s],aldosterone,s,,,
+340,m01338[s],androsterone,s,C00523,,CHEBI:16032
+341,m01339[s],androsterone-glucuronide,s,C11135,,CHEBI:28832
+342,m01344[s],antipyrine,s,C13244,,CHEBI:31225
+343,m01326[s],alpha-pinene-oxide,s,C02759,,CHEBI:29060
+344,m00002[s],(+)-alpha-pinene,s,C06306,,CHEBI:28261
+345,m00580[s],20alpha-hydroxy-4-pregnen-3-one,s,C04042,,CHEBI:28453
+346,m01361[s],aquacob(III)alamin,s,C00992,,CHEBI:15852
+347,m01419[s],cAMP,s,C00575,,CHEBI:17489
+348,m01385[s],beta-carotene,s,C02094,,
+349,m00001[s],(-)-trans-carveol,s,C00964,,CHEBI:15389
+350,m01418[s],calcitroic acid,s,C18230,,
+351,m01988[s],glycocholate,s,C01921,,CHEBI:17687
+352,m02963[s],taurocholate,s,C05122,,CHEBI:28865
+353,m01595[s],CO,s,C00237,,CHEBI:17245
+354,m01617[s],coumarin,s,C05851,,CHEBI:28794
+355,m01632[s],cytosine,s,C00380,,CHEBI:16040
+356,m01630[s],cytidine,s,C00475,,CHEBI:17562
+357,m01098[s],5-deoxyadenosine,s,C05198,,
+358,m01647[s],debrisoquin,s,C13650,,CHEBI:34665
+359,m01655[s],dehydroascorbic acid,s,C05422,,CHEBI:17242
+360,m01768[s],edaravone,s,,,
+361,m00577[s],"2,6-dimethylheptanoyl-carnitine",s,,,
+362,m01298[s],"aflatoxin B1-exo-8,9-epoxide",s,C19586,,
+363,m01787[s],estradiol-17beta,s,C00951,,CHEBI:16469
+364,m00402[s],16-glucuronide-estriol,s,C05504,,
+365,m01850[s],ALeb antigen,s,G00043,,
+366,m01851[s],fucfuc132galacglcgal14acglcgalgluside heparan sulfate,s,,,
+367,m01852[s],fucfucfucgalacglc13galacglcgal14acglcgalgluside heparan sulfate,s,,,
+368,m01853[s],fucfucfucgalacglcgal14acglcgalgluside heparan sulfate,s,,,
+369,m02331[s],lacto-N-fucopentaosyl-III-ceramide,s,,,
+370,m01919[s],gal-glcnac-gal-globoside,s,,,
+371,m01914[s],galfuc12gal14acglcgalgluside heparan sulfate,s,,,
+372,m01915[s],galfucgalacglcgal14acglcgalgluside heparan sulfate,s,,,
+373,m01916[s],galgalfucfucgalacglcgalacglcgal14acglcgalgluside heparan sulfate,s,,,
+374,m01917[s],galgalgalthcrm heparan sulfate,s,,,
+375,m02016[s],GMP,s,C00144,,CHEBI:17345
+376,m02018[s],GP1c,s,,,
+377,m02024[s],GQ1balpha,s,G00129,,
+378,m02034[s],GTP,s,C00044,,CHEBI:15996
+379,m00986[s],4-hydroxy-17beta-estradiol,s,C14209,,
+380,m01163[s],6-hydroxypaclitaxel,s,,,CHEBI:63859
+381,m02171[s],inositol,s,C00137,,CHEBI:17268
+382,m00816[s],3-mercaptolactate-cysteine-disulfide,s,,,
+383,m02475[s],methylglyoxal,s,C00546,,CHEBI:17158
+384,m01244[s],9-O-acetylated-GD3,s,,,
+385,m01245[s],9-O-acetylated-GT3,s,,,
+386,m00032[s],"(1R,2S)-naphthalene 1,2-oxide",s,C14786,,CHEBI:33998
+387,m00204[s],[protein]-L-lysine,s,C02188,,
+388,m02722[s],phenylacetylglutamine,s,C04148,,CHEBI:17884
+389,m01742[s],D-proline,s,C00763,,CHEBI:16313
+390,m01744[s],D-serine,s,C00740,,CHEBI:16523
+391,m00179[s],(S)-3-sulfolactate,s,C11499,,CHEBI:16712
+392,m02931[s],sphingosylphosphorylcholine,s,C03640,,
+393,m02897[s],serotonin,s,C00780,,CHEBI:28790
+394,m03001[s],tolbutamide,s,C07148,,CHEBI:27999
+395,m00734[s],"3,5,3-triiodothyronine-4-sulfate",s,,,CHEBI:35432
+396,m02969[s],testosterone,s,C00535,,CHEBI:17347
+397,m02967[s],testosterone glucuronide,s,C11134,,CHEBI:28835
+398,m03141[s],vitamin D2,s,C05441,,CHEBI:28934
+399,m03142[s],vitamin D3,s,C05443,,CHEBI:28940
+400,m00325[s],12-hydroxydodecanoic acid,s,C08317,,CHEBI:39567
+401,m00371[s],14-hydroxytetradecanoic acid,s,,,
+402,m00403[s],16-hydroxyhexadecanoic acid,s,C18218,,
+403,m00432[s],19-hydroxytestosterone,s,,,
+404,m03154[s],XTP,s,C00700,,
+405,m01800[s],etiocholanolone,s,C04373,,CHEBI:28195
+406,m01640[s],D-arginine,s,C00792,,CHEBI:15816
+407,m01286[s],ADP-glucose,s,C00498,,CHEBI:15751
+408,m01287[s],ADP-mannose,s,C06192,,CHEBI:28845
+409,m02155[s],hyodeoxycholate,s,C15517,,
+410,m01989[s],glycodeoxycholate,s,C05464,,CHEBI:27471
+411,m01020[s],4-nitrophenyl-phosphate,s,C03360,,CHEBI:17440
+412,m01303[s],agmatine,s,C00179,,CHEBI:17431
+413,m01870[s],G00022,s,G00022,,
+414,m01872[s],G00032,s,G00032,,
+415,m01887[s],G00086,s,G00086,,
+416,m02659[s],orotate,s,C00295,,CHEBI:16742
+417,m02137[s],homovanillate,s,C05582,,
+418,m01874[s],G00040,s,G00040,,
+419,m01881[s],G00079,s,G00079,,
+420,m01883[s],G00082,s,G00082,,
+421,m01884[s],G00083,s,G00083,,
+422,m01603[s],coproporphyrin I,s,C05769,,CHEBI:28421
+423,m01604[s],coproporphyrin III,s,C05770,,CHEBI:27609
+424,m01955[s],"glcnac-alpha-1,4-core 2",s,,,
+425,m00771[s],3-deoxy-D-glycero-D-galacto-2-nonulosonic acid,s,,,
+426,m02458[s],eumelanin,s,C17937,,
+427,m01610[s],core 5,s,,,
+428,m01612[s],core 7,s,,,
+429,m01006[s],4-hydroxyretinoic acid,s,C16677,,
+430,m03161[s],glycogen,s,C00182,,CHEBI:28087
+431,m03039[s],trehalose,s,C01083,,CHEBI:16551
+432,m02332[s],lactose,s,C00243,,CHEBI:36219
+433,m02751[s],Pi,s,C00009,,CHEBI:18367;CHEBI:26078
+434,m02193[s],ITP,s,C00081,,CHEBI:16039
+435,m02161[s],IDP,s,C00104,,CHEBI:17808
+436,m02426[s],lysine,s,C00047,,CHEBI:18019
+437,m02360[s],leucine,s,C00123,,CHEBI:15603
+438,m02834[s],retinol,s,C00473,,
+439,m02561[s],NEFA blood pool out,s,,,
+440,m02125[s],histidine,s,C00135,,CHEBI:15971
+441,m02184[s],isoleucine,s,C00407,,CHEBI:17191
+442,m02471[s],methionine,s,C00073,,CHEBI:16643
+443,m02819[s],pyruvate,s,C00022,,CHEBI:32816;CHEBI:15361
+444,m01716[s],D-lactate,s,C00256,,CHEBI:42111
+445,m03155[s],xylitol,s,C00379,,CHEBI:17151
+446,m02001[s],glycophosphatidylinositol-(GPI)-anchored-protein-precursor,s,,,
+447,m02338[s],L-arabitol,s,C00532,,CHEBI:18403
+448,m01615[s],cortisol,s,C00735,,CHEBI:17650
+449,m01669[s],deoxyguanosine,s,C00330,,CHEBI:17172
+450,m01765[s],ebastine,s,D01478,,CHEBI:211060
+451,m01833[s],formate,s,C00058,,CHEBI:30751;CHEBI:15740
+452,m01859[s],fucgalfucgalacglcgalgluside heparan sulfate,s,,,
+453,m02028[s],GT1a,s,C06138,,CHEBI:27691
+454,m02609[s],NO,s,C00533,,CHEBI:16480
+455,m02620[s],norepinephrine sulfate,s,,,
+456,m02653[s],omeprazole,s,C07324,,CHEBI:7772
+457,m02712[s],perillyl alcohol,s,C02452,,CHEBI:15420
+458,m02836[s],retinoyl-glucuronide,s,C11061,,CHEBI:28870
+459,m02943[s],succinate,s,C00042,,CHEBI:15741;CHEBI:30031
+460,m02986[s],thiocyanate,s,C01755,,CHEBI:18022
+461,m03052[s],triiodothyronine,s,C02465,,CHEBI:18258
+462,m02991[s],thiosulfate,s,C00320,,CHEBI:16094
+463,m01682[s],D-glucitol,s,C00794,,CHEBI:17924
+464,m03131[s],V3(NeuAc)2-Gb5Cer,s,G00100,,
+465,m02434[s],m3gacpail_prot heparan sulfate,s,,,
+466,m01435[s],chenodeoxycholic acid,s,C02528,,CHEBI:16755
+467,m02402[s],lithocholate,s,C03990,,CHEBI:16325
+468,m03129[s],ursodeoxycholate,s,C07880,,CHEBI:9907
+469,m02966[s],tauroursodeoxycholate,s,,,
+470,m02965[s],taurolithocholate,s,C02592,,CHEBI:36259;CHEBI:17179
+471,m02000[s],glycolithocholate,s,C15557,,CHEBI:37998
+472,m02004[s],glycoursodeoxycholate,s,,,
+473,m90166[s],alpha-muricholic acid,s,C17647,,
+474,m90168[s],beta-muricholic acid,s,C17726,,
+475,m90169[s],dehydrocholic acid,s,C13154,,
+476,m00745[s],deoxycholic acid,s,C04483,,CHEBI:28834
+477,m90170[s],tauro-alpha-muricholic acid,s,,,
+478,m90171[s],omega-muricholic acid,s,C17727,,
+479,m02964[s],taurodeoxycholate,s,C05463,,CHEBI:9410
+480,m90172[s],taurohyocholic acid,s,,,CHEBI:52022
+481,m90173[s],glycohyocholic acid,s,,,
+482,m90174[s],glycohyodeoxycholic acid,s,,,
+483,m90175[s],glycodehydrocholic acid,s,,,
+484,m90177[s],hyocholic acid,s,C17649,,
+485,m90178[s],tauro-omega-muricholic acid,s,,,
+486,m90179[s],tauro-beta-muricholic acid,s,,,
+487,m90180[s],murideoxycholic acid,s,C15515,,
+488,m90181[s],taurodehydrocholic acid,s,,,
+489,m90190[c],protein,c,,,
+490,m90191[c],free essential amino acid,c,,,
+491,m90192[c],free nonessential amino acid,c,,,
+492,m90193[c],intracellular bile acid,c,,,
+493,m90194[c],glycogen storage pool,c,,,
+494,m90195[c],intracellular lipids,c,,,
+495,m90197[s],tauro-hyodeoxycholic acid,s,,,
+496,m90199[c],misc biomass metabolites,c,,,
+497,m90200[s],serum bile acid,s,,,
+498,m01849[s],sialyl-Lewis (a) antigen,s,G00048,,
+499,m02565[s],Neu5Gc,s,C03410,,CHEBI:29025
+500,m99999[c],cellular biomass,c,,,

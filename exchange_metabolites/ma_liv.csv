@@ -1,0 +1,1356 @@
+﻿index,cpd_id,action,variable,value,note,comment,reference,phase,date
+1,m02348,add,chebi_id,CHEBI:3424,previously empty,,,adding new reactions from GO:MF,1/30/15
+2,m01276,add,chebi_id,CHEBI:17984,acyl-CoA,,,adding new reactions from GO:MF,1/30/15
+3,m01713,add,chebi_id,CHEBI:18320,"1,4-dithiothreitol",,,adding new reactions from GO:MF,1/30/15
+4,m02736,add,chebi_id,CHEBI:18156,"1D-myo-inositol 4,5-bisphosphate",,,adding new reactions from GO:MF,1/30/15
+5,m90135,add,chebi_id,CHEBI:13653,a long-chain carboxylic acid,,,adding new reactions from GO:MF,1/30/15
+6,m90136,add,chebi_id,CHEBI:15339,acceptor,,,adding new reactions from GO:MF,1/30/15
+7,m90137,add,chebi_id,CHEBI:15456,(R)-3-hydroxyacyl-CoA,,,adding new reactions from GO:MF,1/30/15
+8,m90138,add,chebi_id,CHEBI:16292,"D-arabinono-1,4-lactone",,,adding new reactions from GO:MF,1/30/15
+9,m90140,add,chebi_id,CHEBI:16630,3-dehydroshikimate,,,adding new reactions from GO:MF,1/30/15
+10,m90141,add,chebi_id,CHEBI:16738,"2,4-dichlorophenol",,,adding new reactions from GO:MF,1/30/15
+11,m90142,add,chebi_id,CHEBI:17169,benzaldehyde,,,adding new reactions from GO:MF,1/30/15
+12,m90143,add,chebi_id,CHEBI:17194,bromochloromethane,,,adding new reactions from GO:MF,1/30/15
+13,m90144,add,chebi_id,CHEBI:17387,O-acylcarnitine,,,adding new reactions from GO:MF,1/30/15
+14,m90145,add,chebi_id,CHEBI:17571,"beta-D-galactosyl-(1,4)-beta-N-acetyl-D-glucosaminyl-R",,,adding new reactions from GO:MF,1/30/15
+15,m90146,add,chebi_id,CHEBI:17628,aminoacetaldehyde,,,adding new reactions from GO:MF,1/30/15
+16,m90147,add,chebi_id,CHEBI:17803,"dehydro-D-arabinono-1,4-lactone",,,adding new reactions from GO:MF,1/30/15
+17,m90148,add,chebi_id,CHEBI:19040,1-dodecanol,,,adding new reactions from GO:MF,1/30/15
+18,m90149,add,chebi_id,CHEBI:19351,"2,4-dichlorophenoxyacetate",,,adding new reactions from GO:MF,1/30/15
+19,m90150,add,chebi_id,CHEBI:23872,dodecyl sulfate,,,adding new reactions from GO:MF,1/30/15
+20,m90151,add,chebi_id,CHEBI:24759,hypophosphite,,,adding new reactions from GO:MF,1/30/15
+21,m90152,add,chebi_id,CHEBI:28745,L-xylo-hex-3-ulonolactone,,,adding new reactions from GO:MF,1/30/15
+22,m90153,add,chebi_id,CHEBI:29197,phosphite,,,adding new reactions from GO:MF,1/30/15
+23,m90154,add,chebi_id,CHEBI:32364,3-dehydroquinate,,,adding new reactions from GO:MF,1/30/15
+24,m90155,add,chebi_id,CHEBI:33543,sulfonate,,,adding new reactions from GO:MF,1/30/15
+25,m90156,add,chebi_id,CHEBI:36655,glyoxylate,,,adding new reactions from GO:MF,1/30/15
+26,m90157,add,chebi_id,CHEBI:57347,3-oxoacyl-CoA,,,adding new reactions from GO:MF,1/30/15
+27,m90158,add,chebi_id,CHEBI:58639,"5-hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate",,,adding new reactions from GO:MF,1/30/15
+28,m90159,add,chebi_id,CHEBI:59532,F420-0,,,adding new reactions from GO:MF,1/30/15
+29,m90160,add,chebi_id,CHEBI:59536,F420-1,,,adding new reactions from GO:MF,1/30/15
+30,m90161,add,chebi_id,CHEBI:60015,"2,3-dehydroacyl-CoA",,,adding new reactions from GO:MF,1/30/15
+31,m90162,add,chebi_id,CHEBI:9833,UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-6-carboxy-L-lysyl-D-alanyl-D-alanine,,,adding new reactions from GO:MF,1/30/15
+32,m90108,replace,cpd_name,heparan sulfate 2-O-sulfate,heparan sulfate 2-O-sulfate,,,adding new reactions from GO:MF,1/30/15
+33,m90109,replace,cpd_name,donor-H2,donor-H2,,,adding new reactions from GO:MF,1/30/15
+34,m90110,replace,cpd_name,6-alpha-hydroxytestosterone,6-alpha-hydroxytestosterone,,,adding new reactions from GO:MF,1/30/15
+35,m90111,replace,cpd_name,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminoheptanedioate","UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminoheptanedioate",,,adding new reactions from GO:MF,1/30/15
+36,m90112,replace,cpd_name,(cytochrome c)-arginine,(cytochrome c)-arginine,,,adding new reactions from GO:MF,1/30/15
+37,m90113,replace,cpd_name,(cytochrome c)-N(omega)-methyl-arginine,(cytochrome c)-N(omega)-methyl-arginine,,,adding new reactions from GO:MF,1/30/15
+38,m90114,replace,cpd_name,1-alkyl-2-acetyl-sn-glycero-3-phosphocholine,1-alkyl-2-acetyl-sn-glycero-3-phosphocholine,,,adding new reactions from GO:MF,1/30/15
+39,m90115,replace,cpd_name,1-alkyl-2-lyso-sn-glycero-3-phosphocholine,1-alkyl-2-lyso-sn-glycero-3-phosphocholine,,,adding new reactions from GO:MF,1/30/15
+40,m90116,replace,cpd_name,1-radyl-2-acetyl-sn-glycero-3-phospholipid,1-radyl-2-acetyl-sn-glycero-3-phospholipid,,,adding new reactions from GO:MF,1/30/15
+41,m90117,replace,cpd_name,1-radyl-2-acyl-sn-glycero-3-phospholipid,1-radyl-2-acyl-sn-glycero-3-phospholipid,,,adding new reactions from GO:MF,1/30/15
+42,m90118,replace,cpd_name,"2,3-epoxy-2,3-dihydro-2-methyl-3-phytyl-1,4-naphthoquinone","2,3-epoxy-2,3-dihydro-2-methyl-3-phytyl-1,4-naphthoquinone",,,adding new reactions from GO:MF,1/30/15
+43,m90119,replace,cpd_name,"3-hydroxy-2-methyl-3-phytyl-2,3-dihydronaphthoquinone","3-hydroxy-2-methyl-3-phytyl-2,3-dihydronaphthoquinone",,,adding new reactions from GO:MF,1/30/15
+44,m90120,replace,cpd_name,a 2-beta-hydroxygibberellin,a 2-beta-hydroxygibberellin,,,adding new reactions from GO:MF,1/30/15
+45,m90121,replace,cpd_name,a 3-oxo-5-beta-steroid,a 3-oxo-5-beta-steroid,,,adding new reactions from GO:MF,1/30/15
+46,m90122,replace,cpd_name,a 3-oxo-D4-steroid,a 3-oxo-D4-steroid,,,adding new reactions from GO:MF,1/30/15
+47,m90123,replace,cpd_name,a C-19 2-beta-hydroxygibberellin,a C-19 2-beta-hydroxygibberellin,,,adding new reactions from GO:MF,1/30/15
+48,m90124,replace,cpd_name,a C-19 gibberellin,a C-19 gibberellin,,,adding new reactions from GO:MF,1/30/15
+49,m90125,replace,cpd_name,a C-20 2-beta-hydroxygibberellin,a C-20 2-beta-hydroxygibberellin,,,adding new reactions from GO:MF,1/30/15
+50,m90126,replace,cpd_name,a C-20 gibberellin,a C-20 gibberellin,,,adding new reactions from GO:MF,1/30/15
+51,m90127,replace,cpd_name,a fatty acid,a fatty acid,,,adding new reactions from GO:MF,1/30/15
+52,m90128,replace,cpd_name,a gibberellin,a gibberellin,,,adding new reactions from GO:MF,1/30/15
+53,m90129,replace,cpd_name,a long-chain-acyl ethyl ester,a long-chain-acyl ethyl ester,,,adding new reactions from GO:MF,1/30/15
+54,m90130,replace,cpd_name,"alpha-D-galactosyl-(1,3)-beta-D-galactosyl-(1,4)-beta-N-acetyl-D-glucosaminyl-R","alpha-D-galactosyl-(1,3)-beta-D-galactosyl-(1,4)-beta-N-acetyl-D-glucosaminyl-R",,,adding new reactions from GO:MF,1/30/15
+55,m90131,replace,cpd_name,coenzyme F420-2,coenzyme F420-2,,,adding new reactions from GO:MF,1/30/15
+56,m90132,replace,cpd_name,coenzyme F420-3,coenzyme F420-3,,,adding new reactions from GO:MF,1/30/15
+57,m90133,replace,cpd_name,gamma-F420-2,gamma-F420-2,,,adding new reactions from GO:MF,1/30/15
+58,m00099,add,kegg_alt,C02944,,,,updating KEGG annotations,2/9/15
+59,m00185,add,kegg_alt,C00012,,,,updating KEGG annotations,2/9/15
+60,m00767,add,kegg_alt,C03885,,,,updating KEGG annotations,2/9/15
+61,m01271,add,kegg_alt,C00040,pool,,,updating KEGG annotations,2/9/15
+62,m01272,add,kegg_alt,C00040,pool,,,updating KEGG annotations,2/9/15
+63,m01276,add,kegg_alt,C00040,,,,updating KEGG annotations,2/9/15
+64,m01356,add,kegg_alt,C06249,,,,updating KEGG annotations,2/9/15
+65,m01426,add,kegg_alt,C00269,pool,,,updating KEGG annotations,2/9/15
+66,m01438,add,kegg_alt,C01674,C00461 matches cpd_composition,,,updating KEGG annotations,2/9/15
+67,m01589,add,kegg_alt,C05980,pool,,,updating KEGG annotations,2/9/15
+68,m02082,add,kegg_alt,C04196,,,,updating KEGG annotations,2/9/15
+69,m02083,add,kegg_alt,C04073,,,,updating KEGG annotations,2/9/15
+70,m02715,add,kegg_alt,C00344,pool,,,updating KEGG annotations,2/9/15
+71,m02936,add,kegg_alt,C00369,,,,updating KEGG annotations,2/9/15
+72,m02937,add,kegg_alt,C00369,,,,updating KEGG annotations,2/9/15
+73,m03026,add,kegg_alt,C00448,,,,updating KEGG annotations,2/9/15
+74,m00005,replace,kegg_id,C14820,,,,updating KEGG annotations,2/9/15
+75,m00007,replace,kegg_id,C16530,,,,updating KEGG annotations,2/9/15
+76,m00099,replace,kegg_id,,not exact,,,updating KEGG annotations,2/9/15
+77,m00267,replace,kegg_id,C05928,,,,updating KEGG annotations,2/9/15
+78,m00276,replace,kegg_id,C14782,,,,updating KEGG annotations,2/9/15
+79,m00277,replace,kegg_id,C14774,,,,updating KEGG annotations,2/9/15
+80,m00280,replace,kegg_id,C14814,,,,updating KEGG annotations,2/9/15
+81,m00293,replace,kegg_id,C05964,,,,updating KEGG annotations,2/9/15
+82,m00296,replace,kegg_id,C14813,,,,updating KEGG annotations,2/9/15
+83,m00298,replace,kegg_id,C07338,,,,updating KEGG annotations,2/9/15
+84,m00306,replace,kegg_id,C14812,,,,updating KEGG annotations,2/9/15
+85,m00326,replace,kegg_id,C05949,,,,updating KEGG annotations,2/9/15
+86,m00364,replace,kegg_id,C14775,,,,updating KEGG annotations,2/9/15
+87,m00365,replace,kegg_id,C14813,,,,updating KEGG annotations,2/9/15
+88,m00377,replace,kegg_id,C04742,,,,updating KEGG annotations,2/9/15
+89,m00381,replace,kegg_id,C04758,,,,updating KEGG annotations,2/9/15
+90,m00383,replace,kegg_id,C14717,,,,updating KEGG annotations,2/9/15
+91,m00385,replace,kegg_id,C14717,,,,updating KEGG annotations,2/9/15
+92,m00390,replace,kegg_id,C14781,,,,updating KEGG annotations,2/9/15
+93,m00392,replace,kegg_id,C00639,,,,updating KEGG annotations,2/9/15
+94,m00393,replace,kegg_id,C04577,,,,updating KEGG annotations,2/9/15
+95,m00396,replace,kegg_id,C14778,,,,updating KEGG annotations,2/9/15
+96,m00403,replace,kegg_id,C18218,,,,updating KEGG annotations,2/9/15
+97,m00430,replace,kegg_id,C14749,,,,updating KEGG annotations,2/9/15
+98,m00517,replace,kegg_id,C03715,,,,updating KEGG annotations,2/9/15
+99,m00588,replace,kegg_id,C04853,,,,updating KEGG annotations,2/9/15
+100,m00610,replace,kegg_id,C13550,,,,updating KEGG annotations,2/9/15
+101,m00625,replace,kegg_id,C15610,,,,updating KEGG annotations,2/9/15
+102,m00644,replace,kegg_id,C05302,,,,updating KEGG annotations,2/9/15
+103,m00645,replace,kegg_id,C05299,,,,updating KEGG annotations,2/9/15
+104,m00761,replace,kegg_id,C15610,,,,updating KEGG annotations,2/9/15
+105,m00793,replace,kegg_id,C16217,,,,updating KEGG annotations,2/9/15
+106,m00793,replace,kegg_id,C16217,,,,updating KEGG annotations,2/9/15
+107,m00814,replace,kegg_id,C16376,,,,updating KEGG annotations,2/9/15
+108,m00853,replace,kegg_id,C16389,,,,updating KEGG annotations,2/9/15
+109,m00899,replace,kegg_id,C03344,,,,updating KEGG annotations,2/9/15
+110,m00937,replace,kegg_id,C11455,,,,updating KEGG annotations,2/9/15
+111,m00961,replace,kegg_id,C15808,,,,updating KEGG annotations,2/9/15
+112,m00986,replace,kegg_id,C14209,,,,updating KEGG annotations,2/9/15
+113,m00993,replace,kegg_id,C16677,,,,updating KEGG annotations,2/9/15
+114,m01006,replace,kegg_id,C16677,,,,updating KEGG annotations,2/9/15
+115,m01051,replace,kegg_id,C14772,,,,updating KEGG annotations,2/9/15
+116,m01058,replace,kegg_id,C14815,,,,updating KEGG annotations,2/9/15
+117,m01065,replace,kegg_id,C12525,,,,updating KEGG annotations,2/9/15
+118,m01075,replace,kegg_id,C20252,,,,updating KEGG annotations,2/9/15
+119,m01092,replace,kegg_id,C05446,,,,updating KEGG annotations,2/9/15
+120,m01168,replace,kegg_id,C01312,,,,updating KEGG annotations,2/9/15
+121,m01179,replace,kegg_id,C17332,,,,updating KEGG annotations,2/9/15
+122,m01208,replace,kegg_id,C14773,,,,updating KEGG annotations,2/9/15
+123,m01220,replace,kegg_id,C14828,,,,updating KEGG annotations,2/9/15
+124,m01230,replace,kegg_id,C16681,,,,updating KEGG annotations,2/9/15
+125,m01250,replace,kegg_id,C18170,,,,updating KEGG annotations,2/9/15
+126,m01269,replace,kegg_id,C00040,,,,updating KEGG annotations,2/9/15
+127,m01270,replace,kegg_id,C00040,,,,updating KEGG annotations,2/9/15
+128,m01270,replace,kegg_id,C00040,,,,updating KEGG annotations,2/9/15
+129,m01271,replace,kegg_id,C00040,,,,updating KEGG annotations,2/9/15
+130,m01272,replace,kegg_id,C00040,,,,updating KEGG annotations,2/9/15
+131,m01273,replace,kegg_id,C00040,,,,updating KEGG annotations,2/9/15
+132,m01274,replace,kegg_id,C00040,,,,updating KEGG annotations,2/9/15
+133,m01275,replace,kegg_id,C00040,,,,updating KEGG annotations,2/9/15
+134,m01276,replace,kegg_id,C00040,,,,updating KEGG annotations,2/9/15
+135,m01277,replace,kegg_id,C00040,,,,updating KEGG annotations,2/9/15
+136,m01350,replace,kegg_id,C16240,,,,updating KEGG annotations,2/9/15
+137,m01426,replace,kegg_id,C00269,,,,updating KEGG annotations,2/9/15
+138,m01427,replace,kegg_id,C00269,,,,updating KEGG annotations,2/9/15
+139,m01431,replace,kegg_id,C02960,,,,updating KEGG annotations,2/9/15
+140,m01438,replace,kegg_id,C00461,C00461 matches cpd_composition,,,updating KEGG annotations,2/9/15
+141,m01568,replace,kegg_id,G00158,,,,updating KEGG annotations,2/9/15
+142,m01614,replace,kegg_id,C02140,,,,updating KEGG annotations,2/9/15
+143,m01661,replace,kegg_id,C15853,,,,updating KEGG annotations,2/9/15
+144,m01662,replace,kegg_id,C05958,,,,updating KEGG annotations,2/9/15
+145,m01662,replace,kegg_id,C05958,,,,updating KEGG annotations,2/9/15
+146,m01699,replace,kegg_id,C12126,,,,updating KEGG annotations,2/9/15
+147,m01760,replace,kegg_id,C06441,,,,updating KEGG annotations,2/9/15
+148,m01795,replace,kegg_id,C11133,,,,updating KEGG annotations,2/9/15
+149,m01807,replace,kegg_id,C00162,R02250,,,updating KEGG annotations,2/9/15
+150,m01807,replace,kegg_id,C00162,,,,updating KEGG annotations,2/9/15
+151,m01964,replace,kegg_id,G00145,,,,updating KEGG annotations,2/9/15
+152,m01995,replace,kegg_id,C02687,,,,updating KEGG annotations,2/9/15
+153,m02081,replace,kegg_id,G00162,,,,updating KEGG annotations,2/9/15
+154,m02156,replace,kegg_id,C19697,,,,updating KEGG annotations,2/9/15
+155,m02443,replace,kegg_id,C02990,,,,updating KEGG annotations,2/9/15
+156,m02526,replace,kegg_id,C18060,,,,updating KEGG annotations,2/9/15
+157,m02677,replace,kegg_id,C00154,,,,updating KEGG annotations,2/9/15
+158,m02692,replace,kegg_id,C03541,,,,updating KEGG annotations,2/9/15
+159,m02697,replace,kegg_id,C00350,,,,updating KEGG annotations,2/9/15
+160,m02735,replace,kegg_id,C11556,,,,updating KEGG annotations,2/9/15
+161,m02760,replace,kegg_id,C00410,,,,updating KEGG annotations,2/9/15
+162,m02761,replace,kegg_id,C01176,,,,updating KEGG annotations,2/9/15
+163,m02823,replace,kegg_id,C00268,,,,updating KEGG annotations,2/9/15
+164,m02837,replace,kegg_id,C02588,,,,updating KEGG annotations,2/9/15
+165,m02981,replace,kegg_id,C03541,,,,updating KEGG annotations,2/9/15
+166,m03000,replace,kegg_id,G00023,multiple generic removed,,,updating KEGG annotations,2/9/15
+167,m03056,replace,kegg_id,C14811,,,,updating KEGG annotations,2/9/15
+168,m01899,replace,cpd_name,(Glc)1 (GlcNAc)2 (Man)9 (PP-Dol)1,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+169,m02507,replace,cpd_name,(GlcNAc)4 (Man)3 (Asn)1,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+170,m02510,replace,cpd_name,(GlcNAc)5 (Man)3 (Asn)1,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+171,m00002,add,kegg_alt,C09880,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+172,m00559,add,kegg_alt,C03912,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+173,m00614,add,kegg_alt,C04644,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+174,m00616,add,kegg_alt,C05448,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+175,m00618,add,kegg_alt,C05448,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+176,m00784,add,kegg_alt,C01188,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+177,m00785,add,kegg_alt,C04047,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+178,m00913,add,kegg_alt,C00597,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+179,m01107,add,kegg_alt,C01017,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+180,m01685,add,kegg_alt,C06430,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+181,m01698,add,kegg_alt,C00268,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+182,m01778,add,kegg_alt,C00712,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+183,m01840,add,kegg_alt,C00095,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+184,m01910,add,kegg_alt,C00124,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+185,m01939,add,kegg_alt,C00118,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+186,m01981,add,kegg_alt,C00577,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+187,m02039,add,kegg_alt,C00282,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+188,m02348,add,kegg_alt,C15025,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+189,m02386,add,kegg_alt,C00506,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+190,m02394,add,kegg_alt,C00725,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+191,m02525,add,kegg_alt,C01074,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+192,m02543,add,kegg_alt,C00270,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+193,m02579,add,kegg_alt,C00014,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+194,m02845,add,kegg_alt,C00117,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+195,m02991,add,kegg_alt,C00320,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+196,m00173,replace,kegg_id,C01144,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+197,m00531,replace,kegg_id,C18058,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+198,m00614,replace,kegg_id,C17345,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+199,m00616,replace,kegg_id,C15613,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+200,m00618,replace,kegg_id,C17343,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+201,m00913,replace,kegg_id,C00197,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+202,m01107,replace,kegg_id,C00643,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+203,m01183,replace,kegg_id,C03594,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+204,m01568,replace,kegg_id,G00158,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+205,m01655,replace,kegg_id,C05422,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+206,m01748,replace,kegg_id,C00688,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+207,m01778,replace,kegg_id,C01712,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+208,m01899,replace,kegg_id,G10598,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+209,m01921,replace,kegg_id,G00155,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+210,m02039,replace,kegg_id,C00080,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+211,m02348,replace,kegg_id,C00318,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+212,m02350,replace,kegg_id,C00506,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+213,m02507,replace,kegg_id,G00015,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+214,m02510,replace,kegg_id,G00019,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+215,m02579,replace,kegg_id,C01342,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+216,m02768,replace,kegg_id,C16740,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+217,m03000,replace,kegg_id,G00023,recon2 crossref,similar compounds were identified within recon 2 that were annotated with KEGG ids,,updating KEGG annotations,2/10/15
+218,m00017,add,kegg_alt,C02064,,,,updating KEGG annotations,2/10/15
+219,m00019,add,kegg_alt,C01712,,,,updating KEGG annotations,2/10/15
+220,m00019,add,kegg_alt,C08363,,,,updating KEGG annotations,2/10/15
+221,m00020,add,kegg_alt,C00510,,,,updating KEGG annotations,2/10/15
+222,m00020,add,kegg_alt,C16218,,,,updating KEGG annotations,2/10/15
+223,m00048,add,kegg_alt,C09823,,,,updating KEGG annotations,2/10/15
+224,m00048,add,kegg_alt,C11949,,,,updating KEGG annotations,2/10/15
+225,m00063,add,kegg_alt,C02451,,,,updating KEGG annotations,2/10/15
+226,m00064,add,kegg_alt,C16532,,,,updating KEGG annotations,2/10/15
+227,m00077,add,kegg_alt,C16535,,,,updating KEGG annotations,2/10/15
+228,m00077,add,kegg_alt,C16794,,,,updating KEGG annotations,2/10/15
+229,m00079,add,kegg_alt,C05273,,,,updating KEGG annotations,2/10/15
+230,m00080,add,kegg_alt,C02593,,,,updating KEGG annotations,2/10/15
+231,m00082,add,kegg_alt,C05263,,,,updating KEGG annotations,2/10/15
+232,m00098,add,kegg_alt,C05949,,,,updating KEGG annotations,2/10/15
+233,m00099,add,kegg_alt,C02944,,,,updating KEGG annotations,2/10/15
+234,m00099,add,kegg_alt,C03221,,,,updating KEGG annotations,2/10/15
+235,m00104,add,kegg_alt,C01595,,,,updating KEGG annotations,2/10/15
+236,m00107,add,kegg_alt,C12157,,,,updating KEGG annotations,2/10/15
+237,m00114,add,kegg_alt,C16185,,,,updating KEGG annotations,2/10/15
+238,m00115,add,kegg_alt,C01712,,,,updating KEGG annotations,2/10/15
+239,m00116,add,kegg_alt,C00510,,,,updating KEGG annotations,2/10/15
+240,m00116,add,kegg_alt,C16218,,,,updating KEGG annotations,2/10/15
+241,m00118,add,kegg_alt,C06736,,,,updating KEGG annotations,2/10/15
+242,m00127,add,kegg_alt,C00510,,,,updating KEGG annotations,2/10/15
+243,m00127,add,kegg_alt,C16218,,,,updating KEGG annotations,2/10/15
+244,m00128,add,kegg_alt,C08322,,,,updating KEGG annotations,2/10/15
+245,m00129,add,kegg_alt,C06736,,,,updating KEGG annotations,2/10/15
+246,m00230,add,kegg_alt,C10656,,,,updating KEGG annotations,2/10/15
+247,m00252,add,kegg_alt,C09205,,,,updating KEGG annotations,2/10/15
+248,m00256,add,kegg_alt,C11990,,,,updating KEGG annotations,2/10/15
+249,m00257,add,kegg_alt,C09205,,,,updating KEGG annotations,2/10/15
+250,m00265,add,kegg_alt,C16534,,,,updating KEGG annotations,2/10/15
+251,m00270,add,kegg_alt,C14749,,,,updating KEGG annotations,2/10/15
+252,m00270,add,kegg_alt,C14768,,,,updating KEGG annotations,2/10/15
+253,m00271,add,kegg_alt,C09115,,,,updating KEGG annotations,2/10/15
+254,m00272,add,kegg_alt,C18178,,,,updating KEGG annotations,2/10/15
+255,m00272,add,kegg_alt,C18179,,,,updating KEGG annotations,2/10/15
+256,m00281,add,kegg_alt,C05956,,,,updating KEGG annotations,2/10/15
+257,m00281,add,kegg_alt,C05962,,,,updating KEGG annotations,2/10/15
+258,m00282,add,kegg_alt,C04741,,,,updating KEGG annotations,2/10/15
+259,m00289,add,kegg_alt,C15280,,,,updating KEGG annotations,2/10/15
+260,m00297,add,kegg_alt,C14749,,,,updating KEGG annotations,2/10/15
+261,m00297,add,kegg_alt,C14768,,,,updating KEGG annotations,2/10/15
+262,m00299,add,kegg_alt,C09115,,,,updating KEGG annotations,2/10/15
+263,m00314,add,kegg_alt,C19620,,,,updating KEGG annotations,2/10/15
+264,m00315,add,kegg_alt,C19642,,,,updating KEGG annotations,2/10/15
+265,m00320,add,kegg_alt,C04853,,,,updating KEGG annotations,2/10/15
+266,m00321,add,kegg_alt,C14970,,,,updating KEGG annotations,2/10/15
+267,m00321,add,kegg_alt,C15285,,,,updating KEGG annotations,2/10/15
+268,m00322,add,kegg_alt,C03641,,,,updating KEGG annotations,2/10/15
+269,m00329,add,kegg_alt,C06095,,,,updating KEGG annotations,2/10/15
+270,m00329,add,kegg_alt,C09155,,,,updating KEGG annotations,2/10/15
+271,m00330,add,kegg_alt,C05950,,,,updating KEGG annotations,2/10/15
+272,m00330,add,kegg_alt,C08758,,,,updating KEGG annotations,2/10/15
+273,m00332,add,kegg_alt,C17641,,,,updating KEGG annotations,2/10/15
+274,m00332,add,kegg_alt,C17645,,,,updating KEGG annotations,2/10/15
+275,m00338,add,kegg_alt,C01312,,,,updating KEGG annotations,2/10/15
+276,m00339,add,kegg_alt,C00427,,,,updating KEGG annotations,2/10/15
+277,m00340,add,kegg_alt,C02314,,,,updating KEGG annotations,2/10/15
+278,m00349,add,kegg_alt,C00376,,,,updating KEGG annotations,2/10/15
+279,m00352,add,kegg_alt,C11061,,,,updating KEGG annotations,2/10/15
+280,m00355,add,kegg_alt,C09115,,,,updating KEGG annotations,2/10/15
+281,m00357,add,kegg_alt,C08965,,,,updating KEGG annotations,2/10/15
+282,m00358,add,kegg_alt,C18178,,,,updating KEGG annotations,2/10/15
+283,m00368,add,kegg_alt,C09115,,,,updating KEGG annotations,2/10/15
+284,m00368,add,kegg_alt,C17013,,,,updating KEGG annotations,2/10/15
+285,m00369,add,kegg_alt,C18178,,,,updating KEGG annotations,2/10/15
+286,m00369,add,kegg_alt,C18179,,,,updating KEGG annotations,2/10/15
+287,m00370,add,kegg_alt,C18178,,,,updating KEGG annotations,2/10/15
+288,m00370,add,kegg_alt,C18179,,,,updating KEGG annotations,2/10/15
+289,m00373,add,kegg_alt,C00909,,,,updating KEGG annotations,2/10/15
+290,m00373,add,kegg_alt,C02645,,,,updating KEGG annotations,2/10/15
+291,m00374,add,kegg_alt,C04742,,,,updating KEGG annotations,2/10/15
+292,m00376,add,kegg_alt,C00909,,,,updating KEGG annotations,2/10/15
+293,m00376,add,kegg_alt,C02645,,,,updating KEGG annotations,2/10/15
+294,m00378,add,kegg_alt,C14970,,,,updating KEGG annotations,2/10/15
+295,m00378,add,kegg_alt,C15285,,,,updating KEGG annotations,2/10/15
+296,m00379,add,kegg_alt,C05949,,,,updating KEGG annotations,2/10/15
+297,m00379,add,kegg_alt,C05954,,,,updating KEGG annotations,2/10/15
+298,m00382,add,kegg_alt,C05949,,,,updating KEGG annotations,2/10/15
+299,m00382,add,kegg_alt,C05954,,,,updating KEGG annotations,2/10/15
+300,m00384,add,kegg_alt,C05949,,,,updating KEGG annotations,2/10/15
+301,m00384,add,kegg_alt,C05954,,,,updating KEGG annotations,2/10/15
+302,m00385,add,kegg_alt,C06093,,,,updating KEGG annotations,2/10/15
+303,m00386,add,kegg_alt,C00427,,,,updating KEGG annotations,2/10/15
+304,m00388,add,kegg_alt,C00427,,,,updating KEGG annotations,2/10/15
+305,m00388,add,kegg_alt,C01312,,,,updating KEGG annotations,2/10/15
+306,m00389,add,kegg_alt,C04758,,,,updating KEGG annotations,2/10/15
+307,m00394,add,kegg_alt,C04707,,,,updating KEGG annotations,2/10/15
+308,m00394,add,kegg_alt,C04758,,,,updating KEGG annotations,2/10/15
+309,m00412,add,kegg_alt,C05298,,,,updating KEGG annotations,2/10/15
+310,m00412,add,kegg_alt,C05300,,,,updating KEGG annotations,2/10/15
+311,m00413,add,kegg_alt,C05298,,,,updating KEGG annotations,2/10/15
+312,m00413,add,kegg_alt,C05300,,,,updating KEGG annotations,2/10/15
+313,m00415,add,kegg_alt,C09115,,,,updating KEGG annotations,2/10/15
+314,m00417,add,kegg_alt,C18178,,,,updating KEGG annotations,2/10/15
+315,m00417,add,kegg_alt,C18179,,,,updating KEGG annotations,2/10/15
+316,m00431,add,kegg_alt,C05290,,,,updating KEGG annotations,2/10/15
+317,m00432,add,kegg_alt,C05294,,,,updating KEGG annotations,2/10/15
+318,m00448,add,kegg_alt,C03805,,,,updating KEGG annotations,2/10/15
+319,m00458,add,kegg_alt,C03630,,,,updating KEGG annotations,2/10/15
+320,m00462,add,kegg_alt,C03805,,,,updating KEGG annotations,2/10/15
+321,m00495,add,kegg_alt,C03805,,,,updating KEGG annotations,2/10/15
+322,m00498,add,kegg_alt,C15989,,,,updating KEGG annotations,2/10/15
+323,m00520,add,kegg_alt,C16488,,,,updating KEGG annotations,2/10/15
+324,m00585,add,kegg_alt,C05950,,,,updating KEGG annotations,2/10/15
+325,m00589,add,kegg_alt,C09115,,,,updating KEGG annotations,2/10/15
+326,m00590,add,kegg_alt,C00959,,,,updating KEGG annotations,2/10/15
+327,m00593,add,kegg_alt,C18178,,,,updating KEGG annotations,2/10/15
+328,m00593,add,kegg_alt,C18179,,,,updating KEGG annotations,2/10/15
+329,m00597,add,kegg_alt,C02314,,,,updating KEGG annotations,2/10/15
+330,m00598,add,kegg_alt,C00427,,,,updating KEGG annotations,2/10/15
+331,m00600,add,kegg_alt,C04707,,,,updating KEGG annotations,2/10/15
+332,m00600,add,kegg_alt,C04758,,,,updating KEGG annotations,2/10/15
+333,m00607,add,kegg_alt,C08899,,,,updating KEGG annotations,2/10/15
+334,m00608,add,kegg_alt,C01673,,,,updating KEGG annotations,2/10/15
+335,m00612,add,kegg_alt,C08891,,,,updating KEGG annotations,2/10/15
+336,m00613,add,kegg_alt,C08154,,,,updating KEGG annotations,2/10/15
+337,m00620,add,kegg_alt,C08211,,,,updating KEGG annotations,2/10/15
+338,m00624,add,kegg_alt,C05455,,,,updating KEGG annotations,2/10/15
+339,m00644,add,kegg_alt,C05140,,,,updating KEGG annotations,2/10/15
+340,m00645,add,kegg_alt,C05285,,,,updating KEGG annotations,2/10/15
+341,m00666,add,kegg_alt,C01757,,,,updating KEGG annotations,2/10/15
+342,m00678,add,kegg_alt,C01920,,,,updating KEGG annotations,2/10/15
+343,m00679,add,kegg_alt,C16169,,,,updating KEGG annotations,2/10/15
+344,m00680,add,kegg_alt,C16168,,,,updating KEGG annotations,2/10/15
+345,m00680,add,kegg_alt,C16387,,,,updating KEGG annotations,2/10/15
+346,m00685,add,kegg_alt,C05260,,,,updating KEGG annotations,2/10/15
+347,m00687,add,kegg_alt,C07357,,,,updating KEGG annotations,2/10/15
+348,m00687,add,kegg_alt,C15753,,,,updating KEGG annotations,2/10/15
+349,m00688,add,kegg_alt,C16329,,,,updating KEGG annotations,2/10/15
+350,m00694,add,kegg_alt,C16505,,,,updating KEGG annotations,2/10/15
+351,m00695,add,kegg_alt,C16505,,,,updating KEGG annotations,2/10/15
+352,m00706,add,kegg_alt,C05268,,,,updating KEGG annotations,2/10/15
+353,m00717,add,kegg_alt,C16388,,,,updating KEGG annotations,2/10/15
+354,m00718,add,kegg_alt,C16388,,,,updating KEGG annotations,2/10/15
+355,m00731,add,kegg_alt,C02445,,,,updating KEGG annotations,2/10/15
+356,m00731,add,kegg_alt,C08471,,,,updating KEGG annotations,2/10/15
+357,m00735,add,kegg_alt,C17238,,,,updating KEGG annotations,2/10/15
+358,m00746,add,kegg_alt,C04722,,,,updating KEGG annotations,2/10/15
+359,m00747,add,kegg_alt,C04722,,,,updating KEGG annotations,2/10/15
+360,m00753,add,kegg_alt,C04554,,,,updating KEGG annotations,2/10/15
+361,m00757,add,kegg_alt,C05445,,,,updating KEGG annotations,2/10/15
+362,m00757,add,kegg_alt,C05453,,,,updating KEGG annotations,2/10/15
+363,m00763,add,kegg_alt,C01561,,,,updating KEGG annotations,2/10/15
+364,m00763,add,kegg_alt,C05455,,,,updating KEGG annotations,2/10/15
+365,m00764,add,kegg_alt,C01673,,,,updating KEGG annotations,2/10/15
+366,m00764,add,kegg_alt,C03963,,,,updating KEGG annotations,2/10/15
+367,m00766,add,kegg_alt,C03343,,,,updating KEGG annotations,2/10/15
+368,m00766,add,kegg_alt,C14214,,,,updating KEGG annotations,2/10/15
+369,m00772,add,kegg_alt,C11516,,,,updating KEGG annotations,2/10/15
+370,m00797,add,kegg_alt,C03237,,,,updating KEGG annotations,2/10/15
+371,m00801,add,kegg_alt,C16375,,,,updating KEGG annotations,2/10/15
+372,m00825,add,kegg_alt,C07411,,,,updating KEGG annotations,2/10/15
+373,m00830,add,kegg_alt,C07194,,,,updating KEGG annotations,2/10/15
+374,m00831,add,kegg_alt,C03685,,,,updating KEGG annotations,2/10/15
+375,m00832,add,kegg_alt,C05261,,,,updating KEGG annotations,2/10/15
+376,m00833,add,kegg_alt,C05259,,,,updating KEGG annotations,2/10/15
+377,m00835,add,kegg_alt,C10373,,,,updating KEGG annotations,2/10/15
+378,m00837,add,kegg_alt,C15818,,,,updating KEGG annotations,2/10/15
+379,m00838,add,kegg_alt,C16330,,,,updating KEGG annotations,2/10/15
+380,m00845,add,kegg_alt,C05269,,,,updating KEGG annotations,2/10/15
+381,m00850,add,kegg_alt,C16508,,,,updating KEGG annotations,2/10/15
+382,m00855,add,kegg_alt,C16331,,,,updating KEGG annotations,2/10/15
+383,m00877,add,kegg_alt,C09812,,,,updating KEGG annotations,2/10/15
+384,m00877,add,kegg_alt,C16469,,,,updating KEGG annotations,2/10/15
+385,m00884,add,kegg_alt,C16327,,,,updating KEGG annotations,2/10/15
+386,m00887,add,kegg_alt,C07297,,,,updating KEGG annotations,2/10/15
+387,m00889,add,kegg_alt,C03685,,,,updating KEGG annotations,2/10/15
+388,m00938,add,kegg_alt,C08618,,,,updating KEGG annotations,2/10/15
+389,m00938,add,kegg_alt,C08622,,,,updating KEGG annotations,2/10/15
+390,m00939,add,kegg_alt,C01943,,,,updating KEGG annotations,2/10/15
+391,m00940,add,kegg_alt,C08621,,,,updating KEGG annotations,2/10/15
+392,m00942,add,kegg_alt,C05108,,,,updating KEGG annotations,2/10/15
+393,m00942,add,kegg_alt,C05442,,,,updating KEGG annotations,2/10/15
+394,m00954,add,kegg_alt,C04840,,,,updating KEGG annotations,2/10/15
+395,m00958,add,kegg_alt,C11509,,,,updating KEGG annotations,2/10/15
+396,m00960,add,kegg_alt,C15796,,,,updating KEGG annotations,2/10/15
+397,m00961,add,kegg_alt,C03910,,,,updating KEGG annotations,2/10/15
+398,m00961,add,kegg_alt,C11509,,,,updating KEGG annotations,2/10/15
+399,m00963,add,kegg_alt,C04416,,,,updating KEGG annotations,2/10/15
+400,m00963,add,kegg_alt,C15796,,,,updating KEGG annotations,2/10/15
+401,m00964,add,kegg_alt,C14152,,,,updating KEGG annotations,2/10/15
+402,m00976,add,kegg_alt,C08899,,,,updating KEGG annotations,2/10/15
+403,m00977,add,kegg_alt,C08899,,,,updating KEGG annotations,2/10/15
+404,m00978,add,kegg_alt,C17331,,,,updating KEGG annotations,2/10/15
+405,m00979,add,kegg_alt,C17336,,,,updating KEGG annotations,2/10/15
+406,m00980,add,kegg_alt,C05275,,,,updating KEGG annotations,2/10/15
+407,m00984,add,kegg_alt,C17013,,,,updating KEGG annotations,2/10/15
+408,m00988,add,kegg_alt,C02445,,,,updating KEGG annotations,2/10/15
+409,m00991,add,kegg_alt,C06661,,,,updating KEGG annotations,2/10/15
+410,m00994,add,kegg_alt,C07119,,,,updating KEGG annotations,2/10/15
+411,m00994,add,kegg_alt,C08158,,,,updating KEGG annotations,2/10/15
+412,m00999,add,kegg_alt,C18178,,,,updating KEGG annotations,2/10/15
+413,m00999,add,kegg_alt,C18179,,,,updating KEGG annotations,2/10/15
+414,m01008,add,kegg_alt,C06087,,,,updating KEGG annotations,2/10/15
+415,m01008,add,kegg_alt,C07198,,,,updating KEGG annotations,2/10/15
+416,m01011,add,kegg_alt,C04676,,,,updating KEGG annotations,2/10/15
+417,m01011,add,kegg_alt,C05140,,,,updating KEGG annotations,2/10/15
+418,m01012,add,kegg_alt,C02197,,,,updating KEGG annotations,2/10/15
+419,m01017,add,kegg_alt,C05271,,,,updating KEGG annotations,2/10/15
+420,m01022,add,kegg_alt,C07058,,,,updating KEGG annotations,2/10/15
+421,m01022,add,kegg_alt,C09188,,,,updating KEGG annotations,2/10/15
+422,m01023,add,kegg_alt,C07058,,,,updating KEGG annotations,2/10/15
+423,m01023,add,kegg_alt,C09188,,,,updating KEGG annotations,2/10/15
+424,m01026,add,kegg_alt,C09119,,,,updating KEGG annotations,2/10/15
+425,m01026,add,kegg_alt,C09194,,,,updating KEGG annotations,2/10/15
+426,m01027,add,kegg_alt,C09772,,,,updating KEGG annotations,2/10/15
+427,m01028,add,kegg_alt,C14249,,,,updating KEGG annotations,2/10/15
+428,m01030,add,kegg_alt,C19867,,,,updating KEGG annotations,2/10/15
+429,m01038,add,kegg_alt,C09067,,,,updating KEGG annotations,2/10/15
+430,m01038,add,kegg_alt,C09081,,,,updating KEGG annotations,2/10/15
+431,m01039,add,kegg_alt,C02645,,,,updating KEGG annotations,2/10/15
+432,m01041,add,kegg_alt,C05954,,,,updating KEGG annotations,2/10/15
+433,m01046,add,kegg_alt,C04707,,,,updating KEGG annotations,2/10/15
+434,m01046,add,kegg_alt,C04758,,,,updating KEGG annotations,2/10/15
+435,m01047,add,kegg_alt,C00427,,,,updating KEGG annotations,2/10/15
+436,m01049,add,kegg_alt,C05949,,,,updating KEGG annotations,2/10/15
+437,m01049,add,kegg_alt,C05954,,,,updating KEGG annotations,2/10/15
+438,m01050,add,kegg_alt,C00959,,,,updating KEGG annotations,2/10/15
+439,m01050,add,kegg_alt,C04685,,,,updating KEGG annotations,2/10/15
+440,m01056,add,kegg_alt,C18175,,,,updating KEGG annotations,2/10/15
+441,m01057,add,kegg_alt,C06093,,,,updating KEGG annotations,2/10/15
+442,m01061,add,kegg_alt,C02314,,,,updating KEGG annotations,2/10/15
+443,m01061,add,kegg_alt,C04741,,,,updating KEGG annotations,2/10/15
+444,m01062,add,kegg_alt,C02314,,,,updating KEGG annotations,2/10/15
+445,m01062,add,kegg_alt,C04741,,,,updating KEGG annotations,2/10/15
+446,m01065,add,kegg_alt,C07632,,,,updating KEGG annotations,2/10/15
+447,m01067,add,kegg_alt,C05107,,,,updating KEGG annotations,2/10/15
+448,m01067,add,kegg_alt,C15357,,,,updating KEGG annotations,2/10/15
+449,m01076,add,kegg_alt,C05425,,,,updating KEGG annotations,2/10/15
+450,m01076,add,kegg_alt,C05444,,,,updating KEGG annotations,2/10/15
+451,m01077,add,kegg_alt,C05446,,,,updating KEGG annotations,2/10/15
+452,m01079,add,kegg_alt,C05446,,,,updating KEGG annotations,2/10/15
+453,m01081,add,kegg_alt,C04554,,,,updating KEGG annotations,2/10/15
+454,m01082,add,kegg_alt,C04554,,,,updating KEGG annotations,2/10/15
+455,m01086,add,kegg_alt,C16890,,,,updating KEGG annotations,2/10/15
+456,m01088,add,kegg_alt,C16890,,,,updating KEGG annotations,2/10/15
+457,m01091,add,kegg_alt,C16890,,,,updating KEGG annotations,2/10/15
+458,m01094,add,kegg_alt,C05425,,,,updating KEGG annotations,2/10/15
+459,m01094,add,kegg_alt,C05444,,,,updating KEGG annotations,2/10/15
+460,m01096,add,kegg_alt,C09685,,,,updating KEGG annotations,2/10/15
+461,m01097,add,kegg_alt,C14183,,,,updating KEGG annotations,2/10/15
+462,m01097,add,kegg_alt,C14300,,,,updating KEGG annotations,2/10/15
+463,m01111,add,kegg_alt,C01877,,,,updating KEGG annotations,2/10/15
+464,m01111,add,kegg_alt,C01879,,,,updating KEGG annotations,2/10/15
+465,m01113,add,kegg_alt,C17902,,,,updating KEGG annotations,2/10/15
+466,m01118,add,kegg_alt,C05949,,,,updating KEGG annotations,2/10/15
+467,m01123,add,kegg_alt,C00909,,,,updating KEGG annotations,2/10/15
+468,m01126,add,kegg_alt,C14732,,,,updating KEGG annotations,2/10/15
+469,m01141,add,kegg_alt,C05273,,,,updating KEGG annotations,2/10/15
+470,m01150,add,kegg_alt,C06088,,,,updating KEGG annotations,2/10/15
+471,m01150,add,kegg_alt,C09205,,,,updating KEGG annotations,2/10/15
+472,m01151,add,kegg_alt,C04685,,,,updating KEGG annotations,2/10/15
+473,m01152,add,kegg_alt,C04685,,,,updating KEGG annotations,2/10/15
+474,m01153,add,kegg_alt,C09205,,,,updating KEGG annotations,2/10/15
+475,m01154,add,kegg_alt,C00079,,,,updating KEGG annotations,2/10/15
+476,m01160,add,kegg_alt,C10733,,,,updating KEGG annotations,2/10/15
+477,m01160,add,kegg_alt,C13244,,,,updating KEGG annotations,2/10/15
+478,m01168,add,kegg_alt,C05961,,,,updating KEGG annotations,2/10/15
+479,m01171,add,kegg_alt,C00959,,,,updating KEGG annotations,2/10/15
+480,m01172,add,kegg_alt,C04685,,,,updating KEGG annotations,2/10/15
+481,m01176,add,kegg_alt,C09693,,,,updating KEGG annotations,2/10/15
+482,m01176,add,kegg_alt,C09694,,,,updating KEGG annotations,2/10/15
+483,m01185,add,kegg_alt,C05475,,,,updating KEGG annotations,2/10/15
+484,m01185,add,kegg_alt,C05478,,,,updating KEGG annotations,2/10/15
+485,m01186,add,kegg_alt,C02140,,,,updating KEGG annotations,2/10/15
+486,m01190,add,kegg_alt,C14749,,,,updating KEGG annotations,2/10/15
+487,m01190,add,kegg_alt,C14768,,,,updating KEGG annotations,2/10/15
+488,m01191,add,kegg_alt,C05272,,,,updating KEGG annotations,2/10/15
+489,m01192,add,kegg_alt,C17013,,,,updating KEGG annotations,2/10/15
+490,m01194,add,kegg_alt,C18178,,,,updating KEGG annotations,2/10/15
+491,m01194,add,kegg_alt,C18179,,,,updating KEGG annotations,2/10/15
+492,m01197,add,kegg_alt,C08362,,,,updating KEGG annotations,2/10/15
+493,m01199,add,kegg_alt,C09657,,,,updating KEGG annotations,2/10/15
+494,m01200,add,kegg_alt,C09693,,,,updating KEGG annotations,2/10/15
+495,m01200,add,kegg_alt,C09694,,,,updating KEGG annotations,2/10/15
+496,m01202,add,kegg_alt,C14776,,,,updating KEGG annotations,2/10/15
+497,m01204,add,kegg_alt,C09657,,,,updating KEGG annotations,2/10/15
+498,m01220,add,kegg_alt,C07355,,,,updating KEGG annotations,2/10/15
+499,m01221,add,kegg_alt,C04741,,,,updating KEGG annotations,2/10/15
+500,m01222,add,kegg_alt,C05956,,,,updating KEGG annotations,2/10/15
+501,m01222,add,kegg_alt,C05962,,,,updating KEGG annotations,2/10/15
+502,m01223,add,kegg_alt,C05962,,,,updating KEGG annotations,2/10/15
+503,m01224,add,kegg_alt,C07058,,,,updating KEGG annotations,2/10/15
+504,m01225,add,kegg_alt,C03690,,,,updating KEGG annotations,2/10/15
+505,m01226,add,kegg_alt,C08150,,,,updating KEGG annotations,2/10/15
+506,m01226,add,kegg_alt,C15569,,,,updating KEGG annotations,2/10/15
+507,m01228,add,kegg_alt,C14554,,,,updating KEGG annotations,2/10/15
+508,m01228,add,kegg_alt,C14635,,,,updating KEGG annotations,2/10/15
+509,m01229,add,kegg_alt,C06093,,,,updating KEGG annotations,2/10/15
+510,m01229,add,kegg_alt,C09066,,,,updating KEGG annotations,2/10/15
+511,m01231,add,kegg_alt,C07058,,,,updating KEGG annotations,2/10/15
+512,m01231,add,kegg_alt,C09188,,,,updating KEGG annotations,2/10/15
+513,m01232,add,kegg_alt,C16682,,,,updating KEGG annotations,2/10/15
+514,m01233,add,kegg_alt,C11061,,,,updating KEGG annotations,2/10/15
+515,m01234,add,kegg_alt,C00959,,,,updating KEGG annotations,2/10/15
+516,m01235,add,kegg_alt,C16526,,,,updating KEGG annotations,2/10/15
+517,m01239,add,kegg_alt,C14749,,,,updating KEGG annotations,2/10/15
+518,m01244,add,kegg_alt,G00169,,,,updating KEGG annotations,2/10/15
+519,m01250,add,kegg_alt,C00763,,,,updating KEGG annotations,2/10/15
+520,m01259,add,kegg_alt,C02267,,,,updating KEGG annotations,2/10/15
+521,m01262,add,kegg_alt,C06132,,,,updating KEGG annotations,2/10/15
+522,m01264,add,kegg_alt,C04911,,,,updating KEGG annotations,2/10/15
+523,m01264,add,kegg_alt,C04936,,,,updating KEGG annotations,2/10/15
+524,m01269,add,kegg_alt,C04013,,,,updating KEGG annotations,2/10/15
+525,m01272,add,kegg_alt,C04013,,,,updating KEGG annotations,2/10/15
+526,m01275,add,kegg_alt,C04013,,,,updating KEGG annotations,2/10/15
+527,m01277,add,kegg_alt,C04013,,,,updating KEGG annotations,2/10/15
+528,m01292,add,kegg_alt,C06339,,,,updating KEGG annotations,2/10/15
+529,m01314,add,kegg_alt,C13712,,,,updating KEGG annotations,2/10/15
+530,m01324,add,kegg_alt,C04925,,,,updating KEGG annotations,2/10/15
+531,m01324,add,kegg_alt,C04938,,,,updating KEGG annotations,2/10/15
+532,m01348,add,kegg_alt,C15855,,,,updating KEGG annotations,2/10/15
+533,m01382,add,kegg_alt,C06372,,,,updating KEGG annotations,2/10/15
+534,m01489,add,kegg_alt,C14641,,,,updating KEGG annotations,2/10/15
+535,m01503,add,kegg_alt,C14641,,,,updating KEGG annotations,2/10/15
+536,m01586,add,kegg_alt,C00510,,,,updating KEGG annotations,2/10/15
+537,m01586,add,kegg_alt,C16218,,,,updating KEGG annotations,2/10/15
+538,m01589,add,kegg_alt,C05980,,,,updating KEGG annotations,2/10/15
+539,m01607,add,kegg_alt,G00025,,,,updating KEGG annotations,2/10/15
+540,m01624,add,kegg_alt,C00070,,,,updating KEGG annotations,2/10/15
+541,m01664,add,kegg_alt,C16374,,,,updating KEGG annotations,2/10/15
+542,m01738,add,kegg_alt,C17755,,,,updating KEGG annotations,2/10/15
+543,m01739,add,kegg_alt,C02775,,,,updating KEGG annotations,2/10/15
+544,m01768,add,kegg_alt,C13008,,,,updating KEGG annotations,2/10/15
+545,m01769,add,kegg_alt,C16165,,,,updating KEGG annotations,2/10/15
+546,m01791,add,kegg_alt,C09061,,,,updating KEGG annotations,2/10/15
+547,m01793,add,kegg_alt,C14441,,,,updating KEGG annotations,2/10/15
+548,m01844,add,kegg_alt,C00092,,,,updating KEGG annotations,2/10/15
+549,m01844,add,kegg_alt,C00103,,,,updating KEGG annotations,2/10/15
+550,m01847,add,kegg_alt,C04336,,,,updating KEGG annotations,2/10/15
+551,m01861,add,kegg_alt,C06130,,,,updating KEGG annotations,2/10/15
+552,m01931,add,kegg_alt,C01410,,,,updating KEGG annotations,2/10/15
+553,m01942,add,kegg_alt,C04927,,,,updating KEGG annotations,2/10/15
+554,m01944,add,kegg_alt,C06141,,,,updating KEGG annotations,2/10/15
+555,m01980,add,kegg_alt,C03990,,,,updating KEGG annotations,2/10/15
+556,m01999,add,kegg_alt,C06131,,,,updating KEGG annotations,2/10/15
+557,m02004,add,kegg_alt,C05464,,,,updating KEGG annotations,2/10/15
+558,m02004,add,kegg_alt,C05466,,,,updating KEGG annotations,2/10/15
+559,m02013,add,kegg_alt,C04884,,,,updating KEGG annotations,2/10/15
+560,m02013,add,kegg_alt,C04924,,,,updating KEGG annotations,2/10/15
+561,m02035,add,kegg_alt,C17349,,,,updating KEGG annotations,2/10/15
+562,m02097,add,kegg_alt,C11304,,,,updating KEGG annotations,2/10/15
+563,m02097,add,kegg_alt,C11367,,,,updating KEGG annotations,2/10/15
+564,m02149,add,kegg_alt,C13563,,,,updating KEGG annotations,2/10/15
+565,m02181,add,kegg_alt,C03239,,,,updating KEGG annotations,2/10/15
+566,m02181,add,kegg_alt,C03656,,,,updating KEGG annotations,2/10/15
+567,m02190,add,kegg_alt,C03087,,,,updating KEGG annotations,2/10/15
+568,m02330,add,kegg_alt,C04922,,,,updating KEGG annotations,2/10/15
+569,m02361,add,kegg_alt,C17756,,,,updating KEGG annotations,2/10/15
+570,m02422,add,kegg_alt,C01164,,,,updating KEGG annotations,2/10/15
+571,m02443,add,kegg_alt,C19976,,,,updating KEGG annotations,2/10/15
+572,m02449,add,kegg_alt,C00317,,,,updating KEGG annotations,2/10/15
+573,m02456,add,kegg_alt,C16995,,,,updating KEGG annotations,2/10/15
+574,m02457,add,kegg_alt,C03242,,,,updating KEGG annotations,2/10/15
+575,m02457,add,kegg_alt,C09072,,,,updating KEGG annotations,2/10/15
+576,m02478,add,kegg_alt,C07437,,,,updating KEGG annotations,2/10/15
+577,m02499,add,kegg_alt,C09642,,,,updating KEGG annotations,2/10/15
+578,m02520,add,kegg_alt,C11075,,,,updating KEGG annotations,2/10/15
+579,m02561,add,kegg_alt,C00162,,,,updating KEGG annotations,2/10/15
+580,m02568,add,kegg_alt,C15865,,,,updating KEGG annotations,2/10/15
+581,m02599,add,kegg_alt,C03404,,,,updating KEGG annotations,2/10/15
+582,m02599,add,kegg_alt,C07921,,,,updating KEGG annotations,2/10/15
+583,m02603,add,kegg_alt,C07577,,,,updating KEGG annotations,2/10/15
+584,m02603,add,kegg_alt,C07875,,,,updating KEGG annotations,2/10/15
+585,m02618,add,kegg_alt,C00971,,,,updating KEGG annotations,2/10/15
+586,m02618,add,kegg_alt,C02803,,,,updating KEGG annotations,2/10/15
+587,m02632,add,kegg_alt,C00268,,,,updating KEGG annotations,2/10/15
+588,m02648,add,kegg_alt,C09057,,,,updating KEGG annotations,2/10/15
+589,m02649,add,kegg_alt,C14538,,,,updating KEGG annotations,2/10/15
+590,m02667,add,kegg_alt,C02470,,,,updating KEGG annotations,2/10/15
+591,m02715,add,kegg_alt,C00344,,,,updating KEGG annotations,2/10/15
+592,m02716,add,kegg_alt,C04707,,,,updating KEGG annotations,2/10/15
+593,m02717,add,kegg_alt,C03892,,,,updating KEGG annotations,2/10/15
+594,m02761,add,kegg_alt,C03027,,,,updating KEGG annotations,2/10/15
+595,m02766,add,kegg_alt,C16794,,,,updating KEGG annotations,2/10/15
+596,m02791,add,kegg_alt,C05961,,,,updating KEGG annotations,2/10/15
+597,m02791,add,kegg_alt,C05963,,,,updating KEGG annotations,2/10/15
+598,m02797,add,kegg_alt,C09063,,,,updating KEGG annotations,2/10/15
+599,m02811,add,kegg_alt,C02728,,,,updating KEGG annotations,2/10/15
+600,m02823,add,kegg_alt,C02953,,,,updating KEGG annotations,2/10/15
+601,m02825,add,kegg_alt,C20153,,,,updating KEGG annotations,2/10/15
+602,m02876,add,kegg_alt,C18953,,,,updating KEGG annotations,2/10/15
+603,m02900,add,kegg_alt,C11175,,,,updating KEGG annotations,2/10/15
+604,m02909,add,kegg_alt,C00162,,,,updating KEGG annotations,2/10/15
+605,m02916,add,kegg_alt,D07431,,,,updating KEGG annotations,2/10/15
+606,m02917,add,kegg_alt,C00644,,,,updating KEGG annotations,2/10/15
+607,m02917,add,kegg_alt,C01096,,,,updating KEGG annotations,2/10/15
+608,m02937,add,kegg_alt,C00492,,,,updating KEGG annotations,2/10/15
+609,m02937,add,kegg_alt,C00713,,,,updating KEGG annotations,2/10/15
+610,m02947,add,kegg_alt,C06125,,,,updating KEGG annotations,2/10/15
+611,m02953,add,kegg_alt,C00599,,,,updating KEGG annotations,2/10/15
+612,m02968,add,kegg_alt,C04555,,,,updating KEGG annotations,2/10/15
+613,m02977,add,kegg_alt,C05446,,,,updating KEGG annotations,2/10/15
+614,m03002,add,kegg_alt,C16166,,,,updating KEGG annotations,2/10/15
+615,m03004,add,kegg_alt,C16170,,,,updating KEGG annotations,2/10/15
+616,m03005,add,kegg_alt,C02249,,,,updating KEGG annotations,2/10/15
+617,m03007,add,kegg_alt,C16179,,,,updating KEGG annotations,2/10/15
+618,m03012,add,kegg_alt,C16180,,,,updating KEGG annotations,2/10/15
+619,m03013,add,kegg_alt,C16645,,,,updating KEGG annotations,2/10/15
+620,m03014,add,kegg_alt,C16180,,,,updating KEGG annotations,2/10/15
+621,m03017,add,kegg_alt,C16179,,,,updating KEGG annotations,2/10/15
+622,m03018,add,kegg_alt,C16180,,,,updating KEGG annotations,2/10/15
+623,m03025,add,kegg_alt,C02050,,,,updating KEGG annotations,2/10/15
+624,m03026,add,kegg_alt,C00353,,,,updating KEGG annotations,2/10/15
+625,m03029,add,kegg_alt,C02249,,,,updating KEGG annotations,2/10/15
+626,m03029,add,kegg_alt,C16164,,,,updating KEGG annotations,2/10/15
+627,m03033,add,kegg_alt,C16165,,,,updating KEGG annotations,2/10/15
+628,m03034,add,kegg_alt,C16164,,,,updating KEGG annotations,2/10/15
+629,m03036,add,kegg_alt,C00848,,,,updating KEGG annotations,2/10/15
+630,m03036,add,kegg_alt,C02108,,,,updating KEGG annotations,2/10/15
+631,m03095,add,kegg_alt,C06131,,,,updating KEGG annotations,2/10/15
+632,m03117,add,kegg_alt,C17715,,,,updating KEGG annotations,2/10/15
+633,m00035,add,kegg_alt,D00628,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+634,m00305,add,kegg_alt,C08368,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+635,m00669,add,kegg_alt,C00671,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+636,m00788,add,kegg_alt,C02794,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+637,m00812,add,kegg_alt,G10531,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+638,m01629,add,kegg_alt,C01420,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+639,m01685,add,kegg_alt,C02670,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+640,m02096,add,kegg_alt,C04849,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+641,m02319,add,kegg_alt,C01718,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+642,m02375,add,kegg_alt,C02986,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+643,m02386,add,kegg_alt,C00521,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+644,m02394,add,kegg_alt,C16241,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+645,m02525,add,kegg_alt,C01132,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+646,m02673,add,kegg_alt,D00491,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+647,m02771,add,kegg_alt,C02917,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+648,m02945,add,kegg_alt,G00370,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+649,m03000,add,kegg_alt,C04387,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+650,m00351,replace,kegg_id,C19962,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+651,m00429,replace,kegg_id,C01124,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+652,m00433,replace,kegg_id,C05297,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+653,m00619,replace,kegg_id,C15519,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+654,m00655,replace,kegg_id,C07343,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+655,m00943,replace,kegg_id,C15915,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+656,m00965,replace,kegg_id,C15522,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+657,m00967,replace,kegg_id,C05110,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+658,m01042,replace,kegg_id,C05356,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+659,m01178,replace,kegg_id,C17339,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+660,m01203,replace,kegg_id,C14823,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+661,m01314,replace,kegg_id,C15484,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+662,m01316,replace,kegg_id,C17432,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+663,m01384,replace,kegg_id,C20157,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+664,m01385,replace,kegg_id,C02094,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+665,m01447,replace,kegg_id,C15520,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+666,m01607,replace,kegg_id,C04902,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+667,m01616,replace,kegg_id,C00762,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+668,m01667,replace,kegg_id,C15560,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+669,m01685,replace,kegg_id,C06430,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+670,m01935,replace,kegg_id,C02483,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+671,m01938,replace,kegg_id,C14155,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+672,m02096,replace,kegg_id,C14808,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+673,m02098,replace,kegg_id,C14810,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+674,m02114,replace,kegg_id,C00823,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+675,m02149,replace,kegg_id,C16844,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+676,m02446,replace,kegg_id,G00689,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+677,m02449,replace,kegg_id,G00343,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+678,m02478,replace,kegg_id,C20635,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+679,m02534,replace,kegg_id,C06809,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+680,m02765,replace,kegg_id,C07711,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+681,m02931,replace,kegg_id,C03640,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+682,m03129,replace,kegg_id,C07880,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+683,m03142,replace,kegg_id,C05443,metacyc manual,manually reviewed with the aid of metacyc's metabolite translation service,,updating KEGG annotations,2/10/15
+684,m00003,add,kegg_alt,C12100,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+685,m00006,add,kegg_alt,C16531,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+686,m00017,add,kegg_alt,C16526,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+687,m00018,add,kegg_alt,C16530,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+688,m00028,add,kegg_alt,C18177,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+689,m00029,add,kegg_alt,C18177,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+690,m00040,add,kegg_alt,C16531,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+691,m00043,add,kegg_alt,C16530,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+692,m00063,add,kegg_alt,C03069,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+693,m00073,add,kegg_alt,C16163,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+694,m00074,add,kegg_alt,C16166,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+695,m00074,add,kegg_alt,C16173,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+696,m00075,add,kegg_alt,C01089,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+697,m00076,add,kegg_alt,C02593,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+698,m00079,add,kegg_alt,C06736,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+699,m00090,add,kegg_alt,C05272,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+700,m00094,add,kegg_alt,C11896,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+701,m00094,add,kegg_alt,C13364,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+702,m00098,add,kegg_alt,C05954,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+703,m00101,add,kegg_alt,C03595,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+704,m00101,add,kegg_alt,C16179,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+705,m00104,add,kegg_alt,C04056,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+706,m00106,add,kegg_alt,C02050,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+707,m00111,add,kegg_alt,C19660,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+708,m00115,add,kegg_alt,C08363,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+709,m00117,add,kegg_alt,C08322,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+710,m00118,add,kegg_alt,C05273,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+711,m00123,add,kegg_alt,C16180,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+712,m00129,add,kegg_alt,C05273,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+713,m00132,add,kegg_alt,C19642,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+714,m00135,add,kegg_alt,C19660,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+715,m00141,add,kegg_alt,C06371,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+716,m00156,add,kegg_alt,C07577,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+717,m00156,add,kegg_alt,C07875,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+718,m00170,add,kegg_alt,C16216,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+719,m00172,add,kegg_alt,C05259,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+720,m00176,add,kegg_alt,C16216,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+721,m00177,add,kegg_alt,C05259,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+722,m00252,add,kegg_alt,C06088,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+723,m00253,add,kegg_alt,C00959,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+724,m00253,add,kegg_alt,C04685,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+725,m00254,add,kegg_alt,C11304,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+726,m00254,add,kegg_alt,C11367,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+727,m00255,add,kegg_alt,C05961,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+728,m00255,add,kegg_alt,C05963,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+729,m00257,add,kegg_alt,C06088,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+730,m00259,add,kegg_alt,C09693,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+731,m00259,add,kegg_alt,C09694,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+732,m00260,add,kegg_alt,C15373,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+733,m00262,add,kegg_alt,C16170,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+734,m00271,add,kegg_alt,C17013,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+735,m00273,add,kegg_alt,C18178,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+736,m00273,add,kegg_alt,C18179,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+737,m00278,add,kegg_alt,C00959,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+738,m00278,add,kegg_alt,C04685,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+739,m00282,add,kegg_alt,C02314,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+740,m00286,add,kegg_alt,C15221,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+741,m00287,add,kegg_alt,C10706,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+742,m00288,add,kegg_alt,C14624,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+743,m00289,add,kegg_alt,C09145,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+744,m00298,add,kegg_alt,C04717,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+745,m00299,add,kegg_alt,C17013,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+746,m00300,add,kegg_alt,C18178,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+747,m00300,add,kegg_alt,C18179,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+748,m00301,add,kegg_alt,C18178,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+749,m00301,add,kegg_alt,C18179,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+750,m00304,add,kegg_alt,C05952,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+751,m00307,add,kegg_alt,C14777,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+752,m00308,add,kegg_alt,C20388,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+753,m00310,add,kegg_alt,C04594,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+754,m00310,add,kegg_alt,C04780,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+755,m00312,add,kegg_alt,C14795,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+756,m00314,add,kegg_alt,C07355,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+757,m00317,add,kegg_alt,C16171,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+758,m00318,add,kegg_alt,C00959,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+759,m00318,add,kegg_alt,C04685,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+760,m00319,add,kegg_alt,C06094,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+761,m00319,add,kegg_alt,C09112,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+762,m00324,add,kegg_alt,C14749,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+763,m00324,add,kegg_alt,C14768,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+764,m00328,add,kegg_alt,C05950,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+765,m00328,add,kegg_alt,C08758,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+766,m00331,add,kegg_alt,C04707,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+767,m00331,add,kegg_alt,C04758,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+768,m00334,add,kegg_alt,C14807,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+769,m00338,add,kegg_alt,C00427,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+770,m00339,add,kegg_alt,C01312,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+771,m00340,add,kegg_alt,C04741,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+772,m00346,add,kegg_alt,C14158,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+773,m00346,add,kegg_alt,C14505,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+774,m00348,add,kegg_alt,C06093,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+775,m00348,add,kegg_alt,C09066,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+776,m00349,add,kegg_alt,C02110,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+777,m00350,add,kegg_alt,C07058,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+778,m00353,add,kegg_alt,C11061,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+779,m00354,add,kegg_alt,C14749,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+780,m00354,add,kegg_alt,C14768,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+781,m00355,add,kegg_alt,C17013,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+782,m00358,add,kegg_alt,C18179,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+783,m00359,add,kegg_alt,C18178,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+784,m00359,add,kegg_alt,C18179,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+785,m00360,add,kegg_alt,C15790,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+786,m00360,add,kegg_alt,C15800,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+787,m00362,add,kegg_alt,C01760,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+788,m00362,add,kegg_alt,C04166,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+789,m00365,add,kegg_alt,C00959,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+790,m00365,add,kegg_alt,C04685,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+791,m00371,add,kegg_alt,C13790,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+792,m00375,add,kegg_alt,C05949,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+793,m00375,add,kegg_alt,C05954,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+794,m00385,add,kegg_alt,C09066,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+795,m00386,add,kegg_alt,C01312,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+796,m00389,add,kegg_alt,C04707,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+797,m00391,add,kegg_alt,C06088,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+798,m00391,add,kegg_alt,C09205,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+799,m00392,add,kegg_alt,C05960,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+800,m00395,add,kegg_alt,C01844,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+801,m00410,add,kegg_alt,C05298,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+802,m00410,add,kegg_alt,C05300,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+803,m00411,add,kegg_alt,C05298,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+804,m00411,add,kegg_alt,C05300,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+805,m00414,add,kegg_alt,C14749,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+806,m00414,add,kegg_alt,C14768,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+807,m00415,add,kegg_alt,C17013,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+808,m00416,add,kegg_alt,C18178,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+809,m00416,add,kegg_alt,C18179,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+810,m00424,add,kegg_alt,C08503,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+811,m00424,add,kegg_alt,C14538,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+812,m00426,add,kegg_alt,C14749,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+813,m00426,add,kegg_alt,C14768,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+814,m00428,add,kegg_alt,C14749,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+815,m00428,add,kegg_alt,C14768,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+816,m00434,add,kegg_alt,C05295,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+817,m00461,add,kegg_alt,C01192,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+818,m00470,add,kegg_alt,C03805,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+819,m00474,add,kegg_alt,C03805,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+820,m00491,add,kegg_alt,C03630,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+821,m00496,add,kegg_alt,C04036,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+822,m00497,add,kegg_alt,C01192,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+823,m00517,add,kegg_alt,C00608,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+824,m00517,add,kegg_alt,C00675,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+825,m00519,add,kegg_alt,C08154,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+826,m00562,add,kegg_alt,C01942,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+827,m00563,add,kegg_alt,C01942,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+828,m00583,add,kegg_alt,C05956,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+829,m00583,add,kegg_alt,C05962,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+830,m00588,add,kegg_alt,C05956,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+831,m00588,add,kegg_alt,C05962,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+832,m00589,add,kegg_alt,C17013,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+833,m00590,add,kegg_alt,C04685,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+834,m00594,add,kegg_alt,C18178,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+835,m00594,add,kegg_alt,C18179,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+836,m00597,add,kegg_alt,C04741,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+837,m00598,add,kegg_alt,C01312,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+838,m00604,add,kegg_alt,C13713,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+839,m00604,add,kegg_alt,C14608,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+840,m00607,add,kegg_alt,C16494,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+841,m00608,add,kegg_alt,C03963,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+842,m00611,add,kegg_alt,C16497,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+843,m00612,add,kegg_alt,C04715,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+844,m00614,add,kegg_alt,C04644,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+845,m00615,add,kegg_alt,C05450,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+846,m00615,add,kegg_alt,C15614,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+847,m00621,add,kegg_alt,C04715,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+848,m00621,add,kegg_alt,C08891,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+849,m00622,add,kegg_alt,C08148,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+850,m00622,add,kegg_alt,C19900,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+851,m00624,add,kegg_alt,C01561,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+852,m00644,add,kegg_alt,C04676,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+853,m00645,add,kegg_alt,C02197,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+854,m00664,add,kegg_alt,C03087,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+855,m00664,add,kegg_alt,C08269,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+856,m00666,add,kegg_alt,C02295,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+857,m00667,add,kegg_alt,C03231,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+858,m00667,add,kegg_alt,C14144,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+859,m00678,add,kegg_alt,C11945,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+860,m00681,add,kegg_alt,C16167,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+861,m00681,add,kegg_alt,C16172,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+862,m00682,add,kegg_alt,C16165,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+863,m00686,add,kegg_alt,C05258,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+864,m00692,add,kegg_alt,C14253,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+865,m00692,add,kegg_alt,C14260,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+866,m00693,add,kegg_alt,C14253,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+867,m00693,add,kegg_alt,C14260,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+868,m00697,add,kegg_alt,C16327,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+869,m00742,add,kegg_alt,C04722,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+870,m00743,add,kegg_alt,C04760,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+871,m00743,add,kegg_alt,C05448,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+872,m00753,add,kegg_alt,C01301,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+873,m00761,add,kegg_alt,C17335,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+874,m00771,add,kegg_alt,C11544,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+875,m00771,add,kegg_alt,C19792,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+876,m00772,add,kegg_alt,C16699,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+877,m00777,add,kegg_alt,C07343,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+878,m00797,add,kegg_alt,C04405,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+879,m00825,add,kegg_alt,C17361,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+880,m00830,add,kegg_alt,C09946,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+881,m00834,add,kegg_alt,C16328,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+882,m00835,add,kegg_alt,C15818,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+883,m00836,add,kegg_alt,C16330,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+884,m00837,add,kegg_alt,C10373,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+885,m00851,add,kegg_alt,C16508,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+886,m00853,add,kegg_alt,C16375,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+887,m00854,add,kegg_alt,C16335,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+888,m00901,add,kegg_alt,C16388,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+889,m00902,add,kegg_alt,C16375,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+890,m00902,add,kegg_alt,C16389,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+891,m00903,add,kegg_alt,C16388,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+892,m00935,add,kegg_alt,C02367,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+893,m00936,add,kegg_alt,C02367,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+894,m00937,add,kegg_alt,C17394,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+895,m00937,add,kegg_alt,C17422,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+896,m00940,add,kegg_alt,C19828,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+897,m00945,add,kegg_alt,C00082,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+898,m00945,add,kegg_alt,C01536,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+899,m00954,add,kegg_alt,C08631,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+900,m00955,add,kegg_alt,C08154,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+901,m00956,add,kegg_alt,C04746,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+902,m00956,add,kegg_alt,C14157,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+903,m00958,add,kegg_alt,C03910,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+904,m00959,add,kegg_alt,C08211,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+905,m00960,add,kegg_alt,C04416,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+906,m00962,add,kegg_alt,C04814,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+907,m00964,add,kegg_alt,C15789,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+908,m00966,add,kegg_alt,C04453,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+909,m00966,add,kegg_alt,C04525,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+910,m00967,add,kegg_alt,C05111,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+911,m00976,add,kegg_alt,C16494,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+912,m00977,add,kegg_alt,C16494,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+913,m00980,add,kegg_alt,C16464,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+914,m00983,add,kegg_alt,C16322,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+915,m00984,add,kegg_alt,C09115,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+916,m00988,add,kegg_alt,C08471,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+917,m00991,add,kegg_alt,C04604,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+918,m00993,add,kegg_alt,C06093,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+919,m00993,add,kegg_alt,C09066,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+920,m00997,add,kegg_alt,C18178,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+921,m00997,add,kegg_alt,C18179,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+922,m00998,add,kegg_alt,C19477,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+923,m01000,add,kegg_alt,C05298,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+924,m01000,add,kegg_alt,C05300,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+925,m01012,add,kegg_alt,C05285,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+926,m01015,add,kegg_alt,C05270,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+927,m01024,add,kegg_alt,C07058,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+928,m01024,add,kegg_alt,C09188,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+929,m01028,add,kegg_alt,C05028,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+930,m01029,add,kegg_alt,C09119,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+931,m01029,add,kegg_alt,C09194,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+932,m01030,add,kegg_alt,C04251,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+933,m01031,add,kegg_alt,C09119,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+934,m01031,add,kegg_alt,C09194,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+935,m01039,add,kegg_alt,C00909,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+936,m01041,add,kegg_alt,C05949,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+937,m01047,add,kegg_alt,C01312,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+938,m01057,add,kegg_alt,C09066,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+939,m01060,add,kegg_alt,C06093,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+940,m01060,add,kegg_alt,C09066,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+941,m01063,add,kegg_alt,C05956,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+942,m01063,add,kegg_alt,C05962,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+943,m01068,add,kegg_alt,C00599,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+944,m01068,add,kegg_alt,C01164,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+945,m01070,add,kegg_alt,C11135,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+946,m01070,add,kegg_alt,C11136,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+947,m01080,add,kegg_alt,C05425,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+948,m01080,add,kegg_alt,C05444,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+949,m01081,add,kegg_alt,C01301,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+950,m01082,add,kegg_alt,C01301,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+951,m01083,add,kegg_alt,C05445,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+952,m01083,add,kegg_alt,C05453,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+953,m01084,add,kegg_alt,C05445,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+954,m01084,add,kegg_alt,C05453,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+955,m01085,add,kegg_alt,C16890,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+956,m01087,add,kegg_alt,C16890,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+957,m01089,add,kegg_alt,C05446,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+958,m01096,add,kegg_alt,C01618,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+959,m01118,add,kegg_alt,C05954,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+960,m01123,add,kegg_alt,C02645,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+961,m01124,add,kegg_alt,C05949,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+962,m01124,add,kegg_alt,C05954,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+963,m01125,add,kegg_alt,C06093,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+964,m01125,add,kegg_alt,C09066,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+965,m01141,add,kegg_alt,C06736,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+966,m01151,add,kegg_alt,C00959,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+967,m01152,add,kegg_alt,C00959,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+968,m01153,add,kegg_alt,C06088,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+969,m01154,add,kegg_alt,C02057,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+970,m01171,add,kegg_alt,C04685,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+971,m01172,add,kegg_alt,C00959,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+972,m01180,add,kegg_alt,C04715,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+973,m01180,add,kegg_alt,C08891,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+974,m01186,add,kegg_alt,C02942,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+975,m01187,add,kegg_alt,C05949,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+976,m01187,add,kegg_alt,C05954,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+977,m01188,add,kegg_alt,C09067,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+978,m01188,add,kegg_alt,C09081,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+979,m01192,add,kegg_alt,C09115,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+980,m01193,add,kegg_alt,C18178,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+981,m01193,add,kegg_alt,C18179,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+982,m01199,add,kegg_alt,C17747,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+983,m01201,add,kegg_alt,C09693,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+984,m01201,add,kegg_alt,C09694,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+985,m01204,add,kegg_alt,C17747,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+986,m01205,add,kegg_alt,C09693,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+987,m01205,add,kegg_alt,C09694,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+988,m01206,add,kegg_alt,C09693,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+989,m01206,add,kegg_alt,C09694,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+990,m01207,add,kegg_alt,C09183,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+991,m01207,add,kegg_alt,C16525,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+992,m01211,add,kegg_alt,C15790,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+993,m01211,add,kegg_alt,C15800,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+994,m01213,add,kegg_alt,C14776,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+995,m01218,add,kegg_alt,C14836,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+996,m01219,add,kegg_alt,C14825,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+997,m01220,add,kegg_alt,C19620,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+998,m01221,add,kegg_alt,C02314,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+999,m01223,add,kegg_alt,C05956,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1000,m01224,add,kegg_alt,C09188,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1001,m01225,add,kegg_alt,C11637,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1002,m01227,add,kegg_alt,C15157,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1003,m01227,add,kegg_alt,C15346,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1004,m01234,add,kegg_alt,C04685,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1005,m01235,add,kegg_alt,C02064,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1006,m01236,add,kegg_alt,C16530,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1007,m01239,add,kegg_alt,C14768,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1008,m01243,add,kegg_alt,C14826,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1009,m01243,add,kegg_alt,C19617,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1010,m01250,add,kegg_alt,C00148,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1011,m01270,add,kegg_alt,C04013,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1012,m01271,add,kegg_alt,C04013,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1013,m01273,add,kegg_alt,C04013,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1014,m01274,add,kegg_alt,C04013,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1015,m01276,add,kegg_alt,C04013,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1016,m01292,add,kegg_alt,C01586,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1017,m01309,add,kegg_alt,C01780,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1018,m01325,add,kegg_alt,C03264,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1019,m01382,add,kegg_alt,C00611,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1020,m01391,add,kegg_alt,C04925,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1021,m01391,add,kegg_alt,C04938,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1022,m01392,add,kegg_alt,C20827,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1023,m01446,add,kegg_alt,C15518,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1024,m01464,add,kegg_alt,C14641,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1025,m01474,add,kegg_alt,C15441,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1026,m01478,add,kegg_alt,C14641,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1027,m01486,add,kegg_alt,C14641,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1028,m01499,add,kegg_alt,C15441,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1029,m01511,add,kegg_alt,C01189,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1030,m01511,add,kegg_alt,C03091,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1031,m01573,add,kegg_alt,C05261,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1032,m01574,add,kegg_alt,C05261,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1033,m01582,add,kegg_alt,C08316,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1034,m01625,add,kegg_alt,C05643,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1035,m01658,add,kegg_alt,C00390,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1036,m01658,add,kegg_alt,C00828,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1037,m01739,add,kegg_alt,C00650,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1038,m01760,add,kegg_alt,C00199,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1039,m01760,add,kegg_alt,C00231,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1040,m01791,add,kegg_alt,C14441,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1041,m01792,add,kegg_alt,C09061,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1042,m01792,add,kegg_alt,C14441,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1043,m01793,add,kegg_alt,C09061,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1044,m01794,add,kegg_alt,C09061,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1045,m01794,add,kegg_alt,C14441,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1046,m01846,add,kegg_alt,C03146,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1047,m01846,add,kegg_alt,C03521,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1048,m01848,add,kegg_alt,C16489,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1049,m01914,add,kegg_alt,C06130,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1050,m01923,add,kegg_alt,C09291,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1051,m01923,add,kegg_alt,C09304,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1052,m01930,add,kegg_alt,C03738,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1053,m01931,add,kegg_alt,C03415,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1054,m01937,add,kegg_alt,C15790,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1055,m01937,add,kegg_alt,C15800,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1056,m01942,add,kegg_alt,C06141,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1057,m01944,add,kegg_alt,C04927,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1058,m01980,add,kegg_alt,C17658,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1059,m01985,add,kegg_alt,C02297,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1060,m01985,add,kegg_alt,C07447,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1061,m01999,add,kegg_alt,C00528,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1062,m02009,add,kegg_alt,C04911,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1063,m02009,add,kegg_alt,C04936,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1064,m02014,add,kegg_alt,C04884,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1065,m02014,add,kegg_alt,C04924,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1066,m02149,add,kegg_alt,C01663,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1067,m02188,add,kegg_alt,C02728,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1068,m02190,add,kegg_alt,C08269,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1069,m02318,add,kegg_alt,C15872,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1070,m02331,add,kegg_alt,C06131,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1071,m02363,add,kegg_alt,C06093,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1072,m02363,add,kegg_alt,C09066,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1073,m02365,add,kegg_alt,C05949,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1074,m02365,add,kegg_alt,C05954,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1075,m02382,add,kegg_alt,C15473,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1076,m02422,add,kegg_alt,C00599,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1077,m02441,add,kegg_alt,C19440,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1078,m02443,add,kegg_alt,C01594,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1079,m02446,add,kegg_alt,C06216,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1080,m02449,add,kegg_alt,C06218,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1081,m02478,add,kegg_alt,C09348,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1082,m02499,add,kegg_alt,C07591,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1083,m02520,add,kegg_alt,C11723,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1084,m02526,add,kegg_alt,C00357,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1085,m02526,add,kegg_alt,C04256,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1086,m02530,add,kegg_alt,C00430,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1087,m02530,add,kegg_alt,C01073,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1088,m02531,add,kegg_alt,C00439,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1089,m02531,add,kegg_alt,C16674,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1090,m02538,add,kegg_alt,C11361,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1091,m02560,add,kegg_alt,C00162,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1092,m02570,add,kegg_alt,C15868,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1093,m02572,add,kegg_alt,C11331,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1094,m02632,add,kegg_alt,C02953,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1095,m02648,add,kegg_alt,C09124,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1096,m02649,add,kegg_alt,C08503,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1097,m02654,add,kegg_alt,C03450,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1098,m02654,add,kegg_alt,C05598,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1099,m02667,add,kegg_alt,C05663,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1100,m02677,add,kegg_alt,C05272,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1101,m02716,add,kegg_alt,C04758,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1102,m02745,add,kegg_alt,C08322,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1103,m02760,add,kegg_alt,C06392,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1104,m02766,add,kegg_alt,C16535,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1105,m02793,add,kegg_alt,C02314,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1106,m02793,add,kegg_alt,C04741,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1107,m02824,add,kegg_alt,C09070,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1108,m02826,add,kegg_alt,C09070,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1109,m02852,add,kegg_alt,C11304,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1110,m02852,add,kegg_alt,C11367,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1111,m02859,add,kegg_alt,C11304,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1112,m02859,add,kegg_alt,C11367,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1113,m02876,add,kegg_alt,C14433,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1114,m02916,add,kegg_alt,C16022,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1115,m02920,add,kegg_alt,C10172,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1116,m02953,add,kegg_alt,C01164,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1117,m02966,add,kegg_alt,C16868,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1118,m03002,add,kegg_alt,C16173,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1119,m03003,add,kegg_alt,C16167,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1120,m03003,add,kegg_alt,C16172,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1121,m03005,add,kegg_alt,C16164,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1122,m03006,add,kegg_alt,C16170,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1123,m03007,add,kegg_alt,C03595,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1124,m03010,add,kegg_alt,C03035,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1125,m03010,add,kegg_alt,C16162,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1126,m03011,add,kegg_alt,C16645,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1127,m03017,add,kegg_alt,C03595,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1128,m03024,add,kegg_alt,C02050,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1129,m03026,add,kegg_alt,C06089,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1130,m03028,add,kegg_alt,C16168,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1131,m03028,add,kegg_alt,C16387,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1132,m03034,add,kegg_alt,C02249,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1133,m03035,add,kegg_alt,C05275,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1134,m03035,add,kegg_alt,C14422,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1135,m03092,add,kegg_alt,C06131,,identified while spot checking preliminary GPR conversion from human to rat,,updating KEGG annotations,2/10/15
+1136,m90004,replace,cpd_name,reduced acceptor,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1137,m90136,replace,cpd_name,acceptor,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1138,m90137,replace,cpd_name,(R)-3-hydroxyacyl-CoA,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1139,m90138,replace,cpd_name,"D-arabinono-1,4-lactone",,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1140,m90140,replace,cpd_name,3-dehydroshikimate,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1141,m90141,replace,cpd_name,"2,4-dichlorophenol",,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1142,m90142,replace,cpd_name,benzaldehyde,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1143,m90143,replace,cpd_name,bromochloromethane,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1144,m90145,replace,cpd_name,"beta-D-galactosyl-(1,4)-beta-N-acetyl-D-glucosaminyl-R",,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1145,m90146,replace,cpd_name,aminoacetaldehyde,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1146,m90147,replace,cpd_name,"dehydro-D-arabinono-1,4-lactone",,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1147,m90148,replace,cpd_name,1-dodecanol,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1148,m90149,replace,cpd_name,"2,4-dichlorophenoxyacetate",,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1149,m90150,replace,cpd_name,dodecyl sulfate,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1150,m90151,replace,cpd_name,hypophosphite,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1151,m90152,replace,cpd_name,L-Hexulonolactone,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1152,m90153,replace,cpd_name,phosphite,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1153,m90154,replace,cpd_name,3-dehydroquinate,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1154,m90155,replace,cpd_name,sulfonate,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1155,m90156,replace,cpd_name,glyoxylate,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1156,m90157,replace,cpd_name,3-oxoacyl-CoA,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1157,m90158,replace,cpd_name,"5-hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate",,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1158,m90159,replace,cpd_name,F420-0,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1159,m90160,replace,cpd_name,F420-1,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1160,m90161,replace,cpd_name,"2,3-dehydroacyl-CoA",,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1161,m90163,replace,cpd_name,"5-Hydroxy-2-oxo-4-ureido-2,5-dihydro-1H-imidazole-5-carboxylate",,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1162,m90164,replace,cpd_name,5alpha-Pregnan-20alpha-ol-3-one,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1163,m90165,replace,cpd_name,"17alpha,20alpha-Dihydroxypregn-4-en-3-one",,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1164,m90152,replace,kegg_id,C03289,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1165,m90152,replace,kegg_id,C03289,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1166,m90163,replace,kegg_id,C12248,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1167,m90164,replace,kegg_id,C18041,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1168,m90164,replace,kegg_id,C18041,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1169,m90165,replace,kegg_id,C04518,,assigned annotations to new metabolites added as a result of adding new reactions,,adding new reactions from KEGG,2/11/15
+1170,m00661,replace,kegg_id,C00349,2-Methyl-3-oxopropanoate,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1171,m00762,add,kegg_alt,G00157,(Gal)2 (GlcA)1 (Xyl)1 (Ser)1,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1172,m00762,replace,kegg_id,C04903,3-beta-D-Glucuronosyl-3-beta-D-galactosyl-4-beta-D-galactosyl-O-beta-D-xylosylprotein,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1173,m01142,add,kegg_alt,G12396,6-(alpha-D-glucosaminyl)-1D-myo-inositol,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1174,m01142,replace,kegg_id,C15658,6-(alpha-D-Glucosaminyl)-1D-myo-inositol,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1175,m01323,add,kegg_alt,G00004,(GlcNAc)2 (Man)2 (PP-Dol)1,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1176,m01323,replace,kegg_id,C05861,alpha-D-Mannosyl-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1177,m01390,add,kegg_alt,G00003,(GlcNAc)2 (Man)1 (PP-Dol)1,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1178,m01390,replace,kegg_id,C05860,beta-D-Mannosyldiacetylchitobiosyldiphosphodolichol,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1179,m01608,add,kegg_alt,G00028,(GalNAc)1 (GlcNAc)1 (Ser/Thr)1,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1180,m01608,replace,kegg_id,C01306,Core 3,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1181,m01609,add,kegg_alt,G00029,(GalNAc)1 (GlcNAc)2 (Ser/Thr)1,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1182,m01609,replace,kegg_id,C04917,Core 4,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1183,m01731,add,kegg_alt,G10618,Dolichyl D-glucosyl phosphate,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1184,m01731,replace,kegg_id,C01246,Dolichyl beta-D-glucosyl phosphate,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1185,m01733,add,kegg_alt,G10622,Dolichyl phosphate,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1186,m01733,replace,kegg_id,C00110,Dolichyl phosphate,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1187,m01734,add,kegg_alt,G10617,Dolichyl phosphate D-mannose,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1188,m01734,replace,kegg_id,C03862,Dolichyl phosphate D-mannose,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1189,m01866,add,kegg_alt,G00006,(GlcNAc)2 (Man)5 (PP-Dol)1,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1190,m01866,replace,kegg_id,C05864,(alpha-D-Mannosyl)4-beta-D-mannosyl-diacetylchitobiosyldiphosphodolichol,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1191,m01904,add,kegg_alt,G00124,GA1,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1192,m01904,replace,kegg_id,C06136,GA1,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1193,m01905,add,kegg_alt,G00123,GA2,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1194,m01905,replace,kegg_id,C06135,GA2,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1195,m01906,add,kegg_alt,G00156,(Gal)2 (Xyl)1 (Ser)1,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1196,m01906,replace,kegg_id,C04825,3-beta-D-Galactosyl-4-beta-D-galactosyl-O-beta-D-xylosylprotein,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1197,m01941,add,kegg_alt,G00111,GD1a,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1198,m01941,replace,kegg_id,C04927,GD1a,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1199,m01943,add,kegg_alt,G00115,GD1b,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1200,m01943,replace,kegg_id,C06141,GD1b,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1201,m01946,add,kegg_alt,G00114,GD2,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1202,m01946,replace,kegg_id,C06134,GD2,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1203,m01947,add,kegg_alt,G00113,GD3,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1204,m01947,replace,kegg_id,C06133,GD3,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1205,m01960,add,kegg_alt,G00093,Globotriaosylceramide,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1206,m01960,replace,kegg_id,C04737,alpha-D-Galactosyl-(1->4)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1207,m02008,add,kegg_alt,G00110,GM1,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1208,m02008,replace,kegg_id,C04911,GM1,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1209,m02011,add,kegg_alt,G00109,GM2,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1210,m02011,replace,kegg_id,C04884,GM2,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1211,m02015,add,kegg_alt,G00108,GM3,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1212,m02015,replace,kegg_id,C04730,GM3,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1213,m03160,add,kegg_alt,G00317,GM4,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1214,m03160,replace,kegg_id,C06128,GM4,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1215,m02023,add,kegg_alt,G00117,GQ1b,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1216,m02023,replace,kegg_id,C06139,GQ1,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1217,m02028,add,kegg_alt,G00112,GT1a,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1218,m02028,replace,kegg_id,C06138,GT1a,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1219,m02030,add,kegg_alt,G00116,GT1b,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1220,m02030,replace,kegg_id,C06140,GT1b,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1221,m02033,add,kegg_alt,G00118,GT3,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1222,m02033,replace,kegg_id,C06299,NeuAc-alpha2->8NeuAc-alpha2->8NeuAc2->3LacCer,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1223,m02195,add,kegg_alt,G00044,IV2Fuc-Lc4Cer,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1224,m02195,replace,kegg_id,C06131,Fuc-alpha1->2Gal-beta1->3GlcNAc-beta1->3Gal-beta1->4Glc-beta1-1'Cer,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1225,m02197,add,kegg_alt,G00095,"Forssman antigen, IV3GalNAca-Gb4Cer",changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1226,m02197,replace,kegg_id,C04925,"N-Acetyl-D-galactosaminyl-N-Acetyl-D-galactosaminyl-1,3-D-galactosyl-1,4-D-galactosyl-1,4-D-glucosylceramide",changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1227,m02346,add,kegg_alt,G00036,Lc3Cer,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1228,m02346,replace,kegg_id,C04845,N-Acetyl-beta-D-glucosaminyl-(1->3)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1229,m02347,add,kegg_alt,G00037,Lc4Cer,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1230,m02347,replace,kegg_id,C04910,Lc4Cer,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1231,m02498,add,kegg_alt,G00002,"N,N'-Chitobiosyldiphosphodolichol",changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1232,m02498,replace,kegg_id,C04537,"N,N'-Diacetylchitobiosyldiphosphodolichol",changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1233,m02522,add,kegg_alt,G00001,N-Acetyl-D-glucosaminyldiphosphodolichol,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1234,m02522,replace,kegg_id,C04500,N-Acetyl-D-glucosaminyldiphosphodolichol,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1235,m02593,add,kegg_alt,G00066,nLc5Cer,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1236,m02593,replace,kegg_id,C04938,"N-Acetyl-D-glucosaminyl-1,3-beta-D-galactosyl-1,4-N-acetyl-beta-D-glucosaminyl-1,3-beta-D-galactosyl-1,4-beta-D-glucosylceramide",changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1237,m02683,add,kegg_alt,G00050,Paragloboside,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1238,m02683,replace,kegg_id,C04922,beta-D-Galactosyl-(1->4)-N-acetyl-beta-D-glucosaminyl-(1->3)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1239,m02904,add,kegg_alt,G00062,Sialyl-3-paragloboside,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1240,m02904,replace,kegg_id,C04936,"alpha-N-Acetylneuraminyl-2,3-beta-D-galactosyl-1,4-N-acetyl-beta-D-glucosaminyl-1,3-beta-D-galactosyl-1,4-D-glucosylceramide",changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1241,m02906,add,kegg_alt,G00026,(Gal)1 (GalNAc)1 (Neu5Ac)1 (Ser/Thr)1,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1242,m02906,replace,kegg_id,C04901,"alpha-N-Acetylneuraminyl-2,3-beta-D-galactosyl-1,3-N-acetyl-alpha-D-galactosaminyl-R",changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1243,m02960,add,kegg_alt,G00024,T antigen,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1244,m02960,replace,kegg_id,C04750,"beta-D-Galactosyl-1,3-N-acetyl-alpha-D-galactosaminyl-R",changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1245,m03091,add,kegg_alt,G00039,Type IB glycolipid,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1246,m03091,replace,kegg_id,C06130,Gal-alpha1->3(Fuc-alpha1->2)Gal-beta1->3GlcNAc-beta1->3LacCer,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1247,m03093,add,kegg_alt,G00054,(Gal)2 (GalNAc)1 (Glc)1 (GlcNAc)1 (LFuc)1 (Cer)1,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1248,m03093,replace,kegg_id,C06132,Type A glycolipid,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1249,m03103,replace,kegg_id,C00399,Ubiquinone,updated annotations on the go,,adding new reactions from KEGG,2/18/15
+1250,m03156,add,kegg_alt,G00154,(Xyl)1 (Ser)1,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1251,m03156,replace,kegg_id,C02399,D-Xylosylprotein,changed equivalent glycan to kegg_alt if cpd exists,,adding new reactions from KEGG,2/18/15
+1252,m90162,replace,cpd_name,UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-6-carboxy-L-lysyl-D-alanyl-D-alanine,,updated annotations on the go,,adding new reactions from KEGG,2/18/15
+1253,m00173,add,kegg_alt,C03561,,updated annotations on the go,,adding new reactions from KEGG,2/18/15
+1254,m00002,replace,kegg_id,C06306,,updated annotations on the go,,adding new reactions from KEGG,2/18/15
+1255,m90163,add,chebi_id,CHEBI:58639,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1256,m90172,add,chebi_id,CHEBI:52022,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1257,m90173,replace,cpd_alt,glyco-gamma-muricholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1258,m01656,replace,cpd_composition,C20H33O(C5H8)n,C1080H1748O10,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1259,m90166,replace,cpd_composition,C24H40O5,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1260,m90167,replace,cpd_composition,C24H40O5,composition not mass balanced,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1261,m90168,replace,cpd_composition,C24H40O5,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1262,m90170,replace,cpd_composition,C26H45NO7S,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1263,m90178,replace,cpd_composition,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1264,m90179,replace,cpd_composition,C26H45NO7S,C26H45NO7S - C24H40O5 = C2H5NO2S (C2H7NO3S),,,formulating biomass components and curating bile acid metabolism,6/10/15
+1265,m90180,replace,cpd_composition,C24H40O4,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1266,m90184,replace,cpd_composition,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1267,m90185,replace,cpd_composition,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1268,m90186,replace,cpd_composition,C24H40O5+coa,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1269,m90196,replace,cpd_composition,C24H40O4+coa,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1270,m90197,replace,cpd_composition,C24H40O4+taurine,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1271,m90198,replace,cpd_composition,C45H74N7O19P3S,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1272,m00745,replace,cpd_name,deoxycholic acid,"3alpha,12alpha-dihydroxy-5beta-cholanate[c]",,,formulating biomass components and curating bile acid metabolism,6/10/15
+1273,m01435,replace,cpd_name,chenodeoxycholic acid,chenodiol[c],,,formulating biomass components and curating bile acid metabolism,6/10/15
+1274,m90166,replace,cpd_name,alpha-muricholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1275,m90167,replace,cpd_name,7-keto muricholic intermediate,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1276,m90168,replace,cpd_name,beta-muricholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1277,m90169,replace,cpd_name,dehydrocholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1278,m90170,replace,cpd_name,tauro-alpha-muricholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1279,m90171,replace,cpd_name,omega-muricholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1280,m90172,replace,cpd_name,taurohyocholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1281,m90173,replace,cpd_name,glycohyocholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1282,m90174,replace,cpd_name,glycohyodeoxycholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1283,m90175,replace,cpd_name,glycodehydrocholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1284,m90177,replace,cpd_name,hyocholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1285,m90178,replace,cpd_name,tauro-omega-muricholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1286,m90179,replace,cpd_name,tauro-beta-muricholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1287,m90180,replace,cpd_name,murideoxycholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1288,m90181,replace,cpd_name,taurodehydrocholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1289,m90182,replace,cpd_name,alpha-muricholoyl-CoA,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1290,m90183,replace,cpd_name,beta-muricholoyl-CoA,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1291,m90184,replace,cpd_name,omega-muricholoyl-CoA,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1292,m90185,replace,cpd_name,hyocholoyl-CoA,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1293,m90186,replace,cpd_name,dehydrocholoyl-CoA,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1294,m90187,replace,cpd_name,free amino acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1295,m90188,replace,cpd_name,m90188,standby,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1296,m90189,replace,cpd_name,m90189,standby,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1297,m90190,replace,cpd_name,protein,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1298,m90191,replace,cpd_name,free essential amino acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1299,m90192,replace,cpd_name,free nonessential amino acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1300,m90193,replace,cpd_name,intracellular bile acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1301,m90194,replace,cpd_name,glycogen storage pool,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1302,m90195,replace,cpd_name,intracellular lipids,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1303,m90196,replace,cpd_name,hyodeoxycholoyl-CoA,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1304,m90197,replace,cpd_name,tauro-hyodeoxycholic acid,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1305,m90198,replace,cpd_name,ursodeoxycholoyl-CoA,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1306,m90199,replace,cpd_name,misc biomass metabolites,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1307,m99999,replace,cpd_name,cellular biomass,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1308,p001,replace,cpd_name,human biomass,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1309,p002,replace,cpd_name,misc sink,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1310,p003,replace,cpd_name,steroid sink,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1311,p004,replace,cpd_name,xenobiotic sink,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1312,p005,replace,cpd_name,arachidonate sink,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1313,p006,replace,cpd_name,cholesterol-ester sink,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1314,p810,replace,cpd_name,rat biomass demand,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1315,m90179,replace,hmdb_id,HMDB00932,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1316,m02981,add,kegg_alt,C09332,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1317,m90166,replace,kegg_id,C17647,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1318,m90167,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1319,m90168,replace,kegg_id,C17726,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1320,m90169,replace,kegg_id,C13154,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1321,m90170,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1322,m90171,replace,kegg_id,C17727,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1323,m90173,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1324,m90174,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1325,m90175,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1326,m90177,replace,kegg_id,C17649,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1327,m90178,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1328,m90179,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1329,m90180,replace,kegg_id,C15515,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1330,m90181,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1331,m90182,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1332,m90183,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1333,m90184,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1334,m90185,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1335,m90186,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1336,m90187,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,6/10/15
+1337,m90188,replace,kegg_id,,,,,formulating biomass components and curating bile acid metabolism,7/10/15
+1338,m01721,replace,met_mw,308.893,DNA,,,formulating biomass components and curating bile acid metabolism,7/10/15
+1339,m02847,replace,met_mw,323.2868,RNA,,,formulating biomass components and curating bile acid metabolism,7/10/15
+1340,m90190,replace,met_mw,130,protein amino acid,,,formulating biomass components and curating bile acid metabolism,7/10/15
+1341,m90191,replace,met_mw,,free essential amino acid,,,formulating biomass components and curating bile acid metabolism,7/10/15
+1342,m90192,replace,met_mw,,free nonessential amino acid,,,formulating biomass components and curating bile acid metabolism,7/10/15
+1343,m90199,replace,met_mw,257,misc intracellular metabolites,,,formulating biomass components and curating bile acid metabolism,7/10/15
+1344,m02198,replace,cpd_name,sialyl-Lc4Cer,"IV3-a-Neu5Ac,III4-a-Fuc-Lc4Cer",,,setting up metabolic tasks,9/27/15
+1345,m02194,replace,cpd_name,Lewis (b) antigen,"IV2Fuc,III4Fuc-Lc4Cer",,,setting up metabolic tasks,9/27/15
+1346,m02194,replace,kegg_id,G00043,,,,setting up metabolic tasks,9/27/15
+1347,m01849,replace,cpd_name,sialyl-Lewis (a) antigen,,,,setting up metabolic tasks,9/27/15
+1348,m02198,replace,kegg_id,G00047,"IV3-a-Neu5Ac,III4-a-Fuc-Lc4Cer",,,setting up metabolic tasks,9/30/15
+1349,m01850,replace,cpd_name,ALeb antigen,,,,setting up metabolic tasks,9/30/15
+1350,m02195,replace,cpd_name,type I H glycolipid,IV2Fuc-Lc4Cer,,,setting up metabolic tasks,9/30/15
+1351,m90200,replace,cpd_name,serum bile acid,,,,setting up metabolic tasks,9/30/15
+1352,m01592,replace,cpd_name,CMP-Neu5Ac,CMP-N-acetylneuraminate,,,setting up metabolic tasks,11/1/15
+1353,m02543,replace,cpd_name,Neu5Ac,N-acetylneuraminate,,,setting up metabolic tasks,11/1/15
+1354,m01593,replace,cpd_name,CMP-Neu5Gc,CMP-N-glycolylneuraminate,,,setting up metabolic tasks,11/1/15
+1355,m02565,replace,cpd_name,Neu5Gc,N-glycolylneuraminate,,,setting up metabolic tasks,11/1/15

@@ -13,11 +13,12 @@ livM = readCbModel(strcat('./models/','iRno.xml')); % liver model
 
 sieC = load(strcat('./models/','mmu_ENT717.mat')); %iSEC model
 sieC = sieC.model
+sieC.mets=regexprep(sieC.mets, '_', '__')
 
 % Microbiome models
 cl =load(strcat('./models/','colstridium_ljungdahlii.mat'))
 cl=cl.iHN637;
-% convert the compartment format from e.g., '_c' to '[c]'
+%convert the compartment format from e.g., '_c' to '[c]'
 cl.mets = regexprep(cl.mets, '_([^_]+)$', '\[$1\]');
 % make all empty cells in cell arrays to be empty string
 fieldToBeCellStr = {'metFormulas'; 'genes'; 'grRules'; 'metNames'; 'rxnNames'; 'subSystems'};
@@ -58,3 +59,10 @@ for j = 1:numel(fieldToBeCellStr)
     ec.(fieldToBeCellStr{j})(cellfun(@isempty, ec.(fieldToBeCellStr{j}))) = {''};
 end
 
+
+modelCell=struct('bs',bs,'cl',cl,'ec',ec,'ll',ll,'sieC',sieC,'livM',livM)
+spNames = fieldnames(modelCell)
+
+%convert to cell array for indexing
+modelCell=struct2cell(modelCell) 
+nSp = numel(modelCell);
