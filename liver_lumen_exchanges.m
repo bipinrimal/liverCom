@@ -8,7 +8,7 @@ nSp = numel(modelCell);
 exchange_indices=readtable('common_iseCvs livM.xls');
 
 % loop through the table
-for k = 1:numel(exchange_indices)
+for k = 1:size(exchange_indices, 1)
     liver_index=table2array(exchange_indices(k,2));
     iseC_index=table2array(exchange_indices(k,4));
     %liver_metName=modelCell{6}.mets(liver_index);
